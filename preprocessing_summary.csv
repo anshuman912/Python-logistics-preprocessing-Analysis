@@ -1,0 +1,6 @@
+Check,Result
+Raw rows,1010
+Duplicate rows removed,10
+Missing values handled,61
+Numeric outliers capped,IQR capping applied to 4 numeric fields
+Clean rows,1000

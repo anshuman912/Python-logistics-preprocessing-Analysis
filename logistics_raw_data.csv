@@ -1,0 +1,1011 @@
+Shipment_ID,Order_Date,Region,Shipping_Mode,Vehicle_Type,Distance_km,Package_Weight_kg,Expected_Delivery_Days,Delivery_Days,Shipping_Cost_INR,Delivery_Rating,Weather,Delivery_Status
+SHP10000,2025-01-01,South,Road,Truck,679.9,4.87,2,3.4,4383.32,4.0,Clear,In Transit
+SHP10001,2025-01-02,Central,Rail,Truck,521.7,4.99,1,2.7,2514.35,3.7,Rain,Cancelled
+SHP10002,2025-01-03,West,Ship,Bike,740.9,9.2,7,8.2,7013.15,4.7,Clear,Delayed
+SHP10003,2025-01-04,East,Air,Truck,414.4,5.24,3,4.3,1564.63,4.1,Storm,In Transit
+SHP10004,2025-01-05,North,Ship,Truck,263.1,6.85,4,3.6,2593.65,4.0,Clear,On Time
+SHP10005,2025-01-06,North,Rail,Container,382.5,9.43,2,2.1,3473.68,4.5,Rain,On Time
+SHP10006,2025-01-07,North,Air,Truck,151.1,8.62,4,4.6,2612.91,3.8,Clear,In Transit
+SHP10007,2025-01-08,Central,Ship,Container,25000.0,4.92,6,6.5,1499.52,5.0,Clear,On Time
+SHP10008,2025-01-09,East,Road,Truck,213.8,14.59,3,3.8,2014.05,3.5,Clear,On Time
+SHP10009,2025-01-10,West,Road,Van,881.9,10.57,4,6.4,3857.45,4.4,Clear,On Time
+SHP10010,2025-01-11,North,Road,Truck,230.7,8.51,2,0.9,2703.6,4.9,Rain,Delayed
+SHP10011,2025-01-12,Central,Ship,Truck,76.7,2.97,4,3.1,1960.79,3.1,Clear,On Time
+SHP10012,2025-01-13,West,Ship,Bike,309.1,7.75,3,3.7,3098.71,3.8,Storm,Delayed
+SHP10013,2025-01-14,North,Road,Truck,228.4,4.43,2,1.6,1349.55,4.7,Clear,On Time
+SHP10014,2025-01-15,North,Air,Van,702.5,10.06,3,7.4,2966.86,4.8,Rain,On Time
+SHP10015,2025-01-16,North,Ship,Truck,842.9,0.62,2,3.7,2598.78,3.9,Storm,On Time
+SHP10016,2025-01-17,South,Road,Truck,254.2,5.93,6,6.3,1746.87,3.5,Rain,On Time
+SHP10017,2025-01-18,East,Rail,Bike,414.2,,3,3.1,3196.14,4.6,Fog,In Transit
+SHP10018,2025-01-19,South,Ship,Truck,437.8,12.19,2,2.1,2675.94,4.8,Fog,On Time
+SHP10019,2025-01-20,South,Road,Van,334.2,1.44,3,3.5,5869.23,3.2,Clear,On Time
+SHP10020,2025-01-21,East,Air,Bike,292.5,7.4,3,3.5,2250.49,3.2,Rain,On Time
+SHP10021,2025-01-22,North,Road,Van,166.1,10.49,5,4.8,1984.99,4.1,Clear,On Time
+SHP10022,2025-01-23,South,Ship,Bike,65.8,22.08,7,6.8,2202.41,4.4,Clear,On Time
+SHP10023,2025-01-24,South,Ship,Truck,165.3,4.98,3,4.6,1391.34,3.8,Clear,On Time
+SHP10024,2025-01-25,East,Ship,Truck,325.9,8.99,5,6.9,2205.65,,Rain,Cancelled
+SHP10025,2025-01-26,West,Road,Truck,100.7,1.52,4,4.4,2528.34,3.5,Clear,Delayed
+SHP10026,2025-01-27,North,Ship,Container,399.6,7.14,2,1.2,2419.39,2.6,Clear,On Time
+SHP10027,2025-01-28,East,Ship,Bike,,15.29,4,5.1,2117.77,3.7,Clear,On Time
+SHP10028,2025-01-29,East,Road,Truck,228.7,22.22,3,4.9,2009.5,4.0,Storm,On Time
+SHP10029,2025-01-30,North,Ship,Van,283.5,9.58,4,5.8,1905.14,3.8,Clear,On Time
+SHP10030,2025-01-31,East,Road,Truck,117.0,1.9,6,6.9,500000.0,3.2,Clear,Delayed
+SHP10031,2025-02-01,North,Rail,Van,594.1,,3,5.3,4235.17,2.8,Clear,In Transit
+SHP10032,2025-02-02,North,,Van,587.7,1.91,6,6.9,1939.62,3.7,Storm,On Time
+SHP10033,2025-02-03,Central,Road,Bike,135.3,2.74,5,5.8,1410.03,4.6,Storm,In Transit
+SHP10034,2025-02-04,Central,Road,Van,138.6,17.84,3,2.5,2241.4,4.8,Rain,On Time
+SHP10035,2025-02-05,West,Air,Truck,167.1,6.77,4,4.5,1046.64,4.8,Fog,On Time
+SHP10036,2025-02-06,South,Road,Truck,500.7,4.56,3,5.0,2027.4,3.5,Clear,On Time
+SHP10037,2025-02-07,North,Air,Truck,436.9,11.46,7,7.0,2196.14,3.3,Storm,On Time
+SHP10038,2025-02-08,West,Road,Truck,675.0,8.05,4,4.1,2549.03,4.3,Clear,Cancelled
+SHP10039,2025-02-09,East,Road,Truck,723.5,14.4,1,2.1,3442.57,4.4,Clear,On Time
+SHP10040,2025-02-10,North,Rail,Bike,92.6,8.31,3,2.9,1604.1,4.3,Clear,On Time
+SHP10041,2025-02-11,East,Air,Van,489.0,8.45,4,5.3,2264.56,2.7,Rain,Cancelled
+SHP10042,2025-02-12,North,Road,Van,705.3,14.07,1,1.6,3577.72,3.4,Fog,In Transit
+SHP10043,2025-02-13,Central,Rail,Truck,270.4,6.7,1,3.1,3955.95,4.0,Clear,In Transit
+SHP10044,2025-02-14,South,Ship,Bike,340.2,3.55,3,2.2,3858.39,4.3,Storm,Cancelled
+SHP10045,2025-02-15,West,Rail,Container,304.9,11.91,3,4.7,1508.56,4.5,Clear,On Time
+SHP10046,2025-02-16,South,Road,Truck,314.7,5.77,3,2.7,2558.97,4.1,Clear,In Transit
+SHP10047,2025-02-17,East,Road,Container,592.8,8.78,2,1.1,2710.38,4.2,Clear,Delayed
+SHP10048,2025-02-18,East,Ship,Van,986.1,1.26,2,3.6,3533.45,4.1,Rain,In Transit
+SHP10049,2025-02-19,North,Road,Truck,813.1,6.51,4,4.9,2990.22,4.4,Fog,In Transit
+SHP10050,2025-02-20,Central,Ship,Van,236.9,4.81,3,2.2,1982.47,4.2,Clear,On Time
+SHP10051,2025-02-21,West,Rail,Van,415.1,1.23,2,0.9,2273.48,4.0,Rain,In Transit
+SHP10052,2025-02-22,Central,Ship,Truck,187.8,6.66,3,3.3,1527.72,3.8,Clear,On Time
+SHP10053,2025-02-23,Central,Air,Bike,203.2,6.82,4,5.3,1426.0,4.1,Rain,On Time
+SHP10054,2025-02-24,East,Ship,Container,329.7,9.23,1,2.1,1995.31,4.3,Storm,On Time
+SHP10055,2025-02-25,Central,Road,Van,198.9,15.12,2,2.3,2345.41,4.2,Clear,Cancelled
+SHP10056,2025-02-26,North,Air,Van,222.6,13.56,1,1.8,2649.2,4.2,Fog,On Time
+SHP10057,2025-02-27,North,Road,Truck,408.4,5.07,5,5.6,3013.79,4.9,Rain,On Time
+SHP10058,2025-02-28,North,Road,Van,484.5,8.17,5,4.3,2275.37,4.2,Clear,On Time
+SHP10059,2025-03-01,South,Rail,Van,476.0,10.15,5,4.3,2819.19,3.6,Storm,Cancelled
+SHP10060,2025-03-02,South,Ship,Truck,479.1,5.18,4,4.5,3293.09,4.6,Clear,On Time
+SHP10061,2025-03-03,South,Ship,Van,124.3,2.06,4,4.0,2646.51,3.1,Clear,In Transit
+SHP10062,2025-03-04,West,Air,Container,191.1,6.15,3,4.1,1809.05,3.3,Clear,In Transit
+SHP10063,2025-03-05,South,Road,Van,,15.54,4,5.3,2399.07,4.2,Clear,On Time
+SHP10064,2025-03-06,South,Road,Truck,685.0,1.98,1,2.6,2922.6,,Fog,On Time
+SHP10065,2025-03-07,East,Air,Container,1327.1,3.27,4,5.6,3678.05,3.2,Rain,In Transit
+SHP10066,2025-03-08,North,Road,Truck,426.4,3.85,5,4.2,2162.37,3.8,Storm,Cancelled
+SHP10067,2025-03-09,West,Road,Truck,556.5,3.3,3,4.2,3165.14,3.6,Clear,In Transit
+SHP10068,2025-03-10,North,Road,Truck,112.6,11.5,3,3.7,2375.37,3.7,Clear,On Time
+SHP10069,2025-03-11,Central,Road,Truck,546.8,4.41,2,0.5,2401.87,4.6,Clear,In Transit
+SHP10070,2025-03-12,West,Road,Container,1112.8,11.71,4,4.8,4224.15,4.5,Clear,On Time
+SHP10071,2025-03-13,North,Road,Van,190.5,7.4,4,3.6,1448.14,4.0,Storm,Delayed
+SHP10072,2025-03-14,North,Road,Truck,228.2,1.6,6,6.4,2342.59,3.6,Rain,In Transit
+SHP10073,2025-03-15,West,Road,Bike,604.8,5.27,3,3.1,2676.2,3.1,Clear,On Time
+SHP10074,2025-03-16,West,Ship,Bike,352.3,13.83,5,5.5,2300.41,4.9,Fog,In Transit
+SHP10075,2025-03-17,West,Road,Bike,60.5,8.0,4,3.9,1406.42,4.4,Fog,Delayed
+SHP10076,2025-03-18,West,Road,Truck,238.7,5.58,6,6.2,1891.2,3.5,Clear,In Transit
+SHP10077,2025-03-19,North,Rail,Van,840.8,15.66,3,3.5,3345.21,4.5,Fog,On Time
+SHP10078,2025-03-20,South,Road,Bike,282.0,3.01,3,2.8,2466.34,4.0,Clear,On Time
+SHP10079,2025-03-21,North,Ship,Container,281.8,4.54,4,3.3,1754.01,,Clear,In Transit
+SHP10080,2025-03-22,Central,Air,Truck,580.3,12.98,5,6.2,4641.61,4.3,Clear,On Time
+SHP10081,2025-03-23,West,Road,Truck,436.8,11.34,7,8.2,4071.01,3.5,Clear,On Time
+SHP10082,2025-03-24,South,Road,Van,270.9,2.81,1,0.6,1436.55,3.8,Clear,Cancelled
+SHP10083,2025-03-25,North,Ship,Bike,216.8,9.92,1,2.8,2083.49,4.1,Clear,On Time
+SHP10084,2025-03-26,South,Ship,Van,1718.2,4.36,6,8.1,4780.01,3.7,Clear,Cancelled
+SHP10085,2025-03-27,South,Road,Van,754.5,1.18,3,5.6,2713.87,4.4,Rain,On Time
+SHP10086,2025-03-28,West,Rail,Truck,479.0,5.66,4,4.0,4897.71,5.0,Storm,On Time
+SHP10087,2025-03-29,West,Road,Van,499.4,23.14,3,1.7,2931.93,3.5,Fog,In Transit
+SHP10088,2025-03-30,Central,Ship,Container,316.1,13.99,1,1.9,2662.6,2.9,Clear,Delayed
+SHP10089,2025-03-31,East,Road,Truck,433.3,6.93,5,5.9,2828.08,2.7,Clear,Delayed
+SHP10090,2025-04-01,North,Ship,Container,292.6,1.88,5,5.5,1408.52,3.9,Clear,On Time
+SHP10091,2025-04-02,West,Rail,Bike,177.1,1.21,3,2.6,1189.22,3.6,Clear,In Transit
+SHP10092,2025-04-03,West,Rail,Truck,444.7,7.41,3,3.6,1862.03,4.1,Rain,On Time
+SHP10093,2025-04-04,East,Rail,Van,274.6,9.48,5,4.9,1680.42,4.1,Rain,On Time
+SHP10094,2025-04-05,West,Road,Truck,460.3,11.59,1,1.4,1671.08,3.0,Rain,On Time
+SHP10095,2025-04-06,East,Road,Container,518.4,600.0,6,7.6,3150.53,2.8,Rain,Delayed
+SHP10096,2025-04-07,East,Road,Van,476.5,11.33,2,2.9,5195.96,4.2,Clear,On Time
+SHP10097,2025-04-08,South,Road,Van,165.8,8.7,4,4.8,1983.88,4.1,Clear,On Time
+SHP10098,2025-04-09,North,Air,Container,253.5,15.44,6,6.1,1654.26,3.7,Rain,On Time
+SHP10099,2025-04-10,North,Road,Truck,278.5,4.8,4,4.1,1631.75,2.9,Clear,On Time
+SHP10100,2025-04-11,North,Road,Bike,647.6,7.34,3,2.8,2623.26,4.3,Clear,On Time
+SHP10101,2025-04-12,West,Ship,Van,626.3,1.61,4,4.5,2126.72,4.8,Clear,Delayed
+SHP10102,2025-04-13,South,Ship,Truck,200.0,4.73,3,0.5,2550.71,4.2,Clear,On Time
+SHP10103,2025-04-14,East,Ship,Van,121.8,13.73,2,1.6,2640.99,3.4,Clear,In Transit
+SHP10104,2025-04-15,Central,Ship,Container,1365.9,11.09,7,8.9,4035.07,4.0,Fog,Delayed
+SHP10105,2025-04-16,South,Road,Truck,464.1,0.89,5,6.2,2858.03,3.1,Fog,On Time
+SHP10106,2025-04-17,South,Road,Bike,108.3,24.25,4,3.9,3893.66,4.7,Clear,Delayed
+SHP10107,2025-04-18,West,Air,Bike,225.4,8.01,3,3.7,4227.19,4.1,Clear,On Time
+SHP10108,2025-04-19,North,Air,Truck,665.0,8.12,1,0.5,7606.98,2.9,Rain,In Transit
+SHP10109,2025-04-20,North,Road,Bike,1165.7,4.5,1,2.6,3460.01,3.8,Clear,Cancelled
+SHP10110,2025-04-21,South,Ship,Truck,1048.1,5.29,4,3.8,8220.11,4.3,Clear,On Time
+SHP10111,2025-04-22,North,Road,Truck,451.2,7.95,5,4.4,2268.32,3.8,Clear,Delayed
+SHP10112,2025-04-23,Central,Road,Truck,346.8,10.67,4,4.3,2011.34,3.8,Clear,On Time
+SHP10113,2025-04-24,West,Rail,Bike,153.2,,5,6.5,2102.52,3.2,Fog,On Time
+SHP10114,2025-04-25,West,Rail,Van,367.5,4.78,1,1.9,1855.75,4.4,Fog,In Transit
+SHP10115,2025-04-26,Central,Rail,Truck,170.4,3.51,3,3.3,2007.14,3.6,Clear,On Time
+SHP10116,2025-04-27,West,Road,Truck,255.3,3.32,2,2.3,1264.23,2.6,Clear,On Time
+SHP10117,2025-04-28,,Ship,Van,604.4,14.44,3,3.1,2897.91,3.8,Clear,On Time
+SHP10118,2025-04-29,Central,Road,Truck,291.5,13.32,1,0.9,3565.42,4.6,Clear,Delayed
+SHP10119,2025-04-30,East,Road,Bike,277.6,10.01,7,7.8,2135.59,3.7,Storm,On Time
+SHP10120,2025-05-01,West,Ship,Container,333.8,14.38,2,1.1,2547.78,5.0,Rain,Cancelled
+SHP10121,2025-05-02,Central,Ship,Van,1490.5,6.54,6,8.7,5082.03,4.3,Clear,On Time
+SHP10122,2025-05-03,South,Ship,Bike,140.0,12.57,3,2.8,3055.32,4.2,Rain,On Time
+SHP10123,2025-05-04,North,Ship,Truck,419.8,10.37,7,8.4,1774.17,3.9,Fog,Delayed
+SHP10124,2025-05-05,North,Rail,Bike,990.6,,4,6.4,4298.49,4.0,Fog,On Time
+SHP10125,2025-05-06,South,Rail,Van,333.1,3.06,6,4.8,1885.71,3.8,Clear,Delayed
+SHP10126,2025-05-07,West,Road,Van,745.7,8.61,1,1.5,3270.18,3.8,Clear,On Time
+SHP10127,2025-05-08,Central,Road,Truck,114.8,5.51,5,4.3,2616.47,4.3,Rain,On Time
+SHP10128,2025-05-09,North,Road,Bike,298.5,1.02,6,4.6,1320.81,3.4,Clear,On Time
+SHP10129,2025-05-10,East,Road,Truck,185.2,15.98,2,1.2,1661.14,3.3,Storm,Cancelled
+SHP10130,2025-05-11,South,Air,Truck,330.6,13.34,1,3.9,1612.23,3.3,Rain,Delayed
+SHP10131,2025-05-12,North,Road,Truck,335.6,9.14,3,4.1,1954.24,5.0,Storm,In Transit
+SHP10132,2025-05-13,North,Road,Van,360.5,3.69,6,8.4,3441.55,4.3,Clear,On Time
+SHP10133,2025-05-14,South,Road,Van,600.8,1.55,4,5.7,2510.2,4.2,Fog,Delayed
+SHP10134,2025-05-15,Central,Air,Container,41.0,1.01,3,2.3,705.49,3.3,Clear,On Time
+SHP10135,2025-05-16,South,Road,Bike,217.8,4.7,2,1.9,1571.52,4.4,Storm,Cancelled
+SHP10136,2025-05-17,East,Ship,Truck,400.7,11.44,1,2.2,1816.62,3.9,Clear,In Transit
+SHP10137,2025-05-18,West,Road,Container,63.5,5.56,5,5.5,987.02,4.1,Clear,In Transit
+SHP10138,2025-05-19,South,Road,Truck,522.6,10.1,1,1.2,3004.17,3.4,Fog,On Time
+SHP10139,2025-05-20,Central,Rail,Bike,214.7,10.44,4,2.8,1473.21,4.1,Clear,On Time
+SHP10140,2025-05-21,Central,Ship,Container,302.6,11.33,6,9.7,3297.16,3.7,Clear,On Time
+SHP10141,2025-05-22,South,Road,Van,618.4,1.33,2,2.7,2572.5,3.5,Storm,Cancelled
+SHP10142,2025-05-23,East,Rail,Container,767.2,3.96,4,4.8,3096.83,4.5,Clear,On Time
+SHP10143,2025-05-24,South,Rail,Truck,533.0,9.97,1,1.9,2561.47,3.0,Rain,On Time
+SHP10144,2025-05-25,South,Road,Van,136.7,18.27,4,4.0,2794.13,4.4,Clear,On Time
+SHP10145,2025-05-26,North,Ship,Container,515.8,15.04,2,2.9,3525.64,4.4,Fog,On Time
+SHP10146,2025-05-27,East,Air,Van,538.6,8.82,5,7.1,2950.83,3.4,Rain,On Time
+SHP10147,2025-05-28,East,Rail,Truck,471.5,16.09,3,3.5,3253.92,3.5,Clear,In Transit
+SHP10148,2025-05-29,North,Ship,Van,846.2,8.77,3,3.0,3247.12,3.9,Clear,Delayed
+SHP10149,2025-05-30,north,Ship,Container,367.0,1.94,4,4.4,2508.36,4.2,Rain,In Transit
+SHP10150,2025-05-31,Central,Air,Truck,825.9,11.2,2,2.7,3215.41,3.9,Clear,In Transit
+SHP10151,2025-06-01,North,Ship,Truck,822.8,15.38,5,7.6,3561.92,4.3,Clear,On Time
+SHP10152,2025-06-02,North,Air,Container,548.5,22.0,3,5.0,3018.75,5.0,Rain,On Time
+SHP10153,2025-06-03,East,Air,Container,424.3,4.6,4,4.7,2036.95,3.7,Clear,On Time
+SHP10154,2025-06-04,Central,Rail,Truck,473.3,2.8,2,1.4,1968.9,2.9,Clear,Cancelled
+SHP10155,2025-06-05,South,Air,Truck,961.4,12.59,4,4.1,4123.22,4.5,Rain,On Time
+SHP10156,2025-06-06,West,Road,Truck,684.4,9.56,2,3.0,4332.26,5.0,Clear,On Time
+SHP10157,2025-06-07,West,Ship,Truck,150.7,8.98,3,3.6,2953.77,4.3,Clear,On Time
+SHP10158,2025-06-08,North,Ship,Van,453.7,16.24,2,2.3,2173.76,3.3,Clear,On Time
+SHP10159,2025-06-09,West,Road,Container,177.7,12.56,5,4.8,3293.36,3.9,Rain,On Time
+SHP10160,2025-06-10,South,Ship,Van,,10.19,2,1.7,1835.62,3.3,Rain,On Time
+SHP10161,2025-06-11,West,Road,Van,262.9,5.06,6,6.4,2441.97,4.4,Rain,In Transit
+SHP10162,2025-06-12,West,Road,Truck,105.3,11.89,6,3.8,1384.07,3.1,Clear,In Transit
+SHP10163,2025-06-13,East,,Container,168.5,2.71,2,1.1,1775.95,3.8,Clear,On Time
+SHP10164,2025-06-14,North,Road,Van,875.2,8.75,4,4.6,3671.91,3.3,Clear,On Time
+SHP10165,2025-06-15,West,Ship,Bike,208.8,6.99,1,2.5,1239.65,4.1,Clear,In Transit
+SHP10166,2025-06-16,South,Ship,Van,603.0,1.86,3,3.0,3085.19,3.8,Storm,On Time
+SHP10167,2025-06-17,North,Rail,Truck,390.1,9.58,4,4.7,3734.4,4.1,Clear,In Transit
+SHP10168,2025-06-18,North,Road,Van,501.3,4.61,4,4.9,2365.18,4.0,Clear,On Time
+SHP10169,2025-06-19,East,Road,Truck,515.3,9.42,4,6.0,4024.2,3.4,Clear,Delayed
+SHP10170,2025-06-20,,Rail,Van,162.6,,3,4.5,1566.51,4.4,Rain,Delayed
+SHP10171,2025-06-21,North,Ship,Truck,600.7,12.64,3,3.8,3697.8,4.0,Rain,Delayed
+SHP10172,2025-06-22,East,Rail,Truck,124.9,20.12,2,1.7,1336.71,3.4,Rain,In Transit
+SHP10173,2025-06-23,North,ship,Bike,202.1,2.71,4,3.6,5123.47,5.0,Fog,On Time
+SHP10174,2025-06-24,West,Rail,Truck,510.4,3.34,3,3.5,3998.44,4.3,Clear,On Time
+SHP10175,2025-06-25,North,Rail,Container,154.0,2.34,4,3.8,1457.05,3.9,Clear,On Time
+SHP10176,2025-06-26,West,Air,Truck,57.6,6.12,2,2.6,750.59,4.9,Clear,In Transit
+SHP10177,2025-06-27,South,Road,Van,439.5,9.32,3,4.0,2713.1,5.0,Rain,On Time
+SHP10178,2025-06-28,Central,Air,Van,89.4,11.41,3,3.7,1143.79,3.9,Rain,In Transit
+SHP10179,2025-06-29,North,Rail,Van,542.2,8.63,1,3.0,3042.81,4.2,Clear,On Time
+SHP10180,2025-06-30,South,Ship,Truck,277.1,11.17,3,5.3,2520.41,3.4,Rain,On Time
+SHP10181,2025-07-01,North,Road,Truck,435.3,6.81,5,5.7,1918.16,3.9,Rain,In Transit
+SHP10182,2025-07-02,Central,Rail,Truck,429.9,4.56,6,7.7,3350.54,3.9,Fog,On Time
+SHP10183,2025-07-03,Central,Ship,Truck,568.6,3.41,3,3.5,3257.88,4.1,Rain,On Time
+SHP10184,2025-07-04,South,Road,Van,520.3,6.29,3,4.9,3437.71,4.2,Fog,On Time
+SHP10185,2025-07-05,West,Ship,Bike,152.9,3.48,1,2.3,1676.07,4.4,Clear,On Time
+SHP10186,2025-07-06,West,Air,Bike,289.5,9.13,6,7.4,1512.84,4.2,Rain,Delayed
+SHP10187,2025-07-07,East,Road,Container,435.0,3.52,1,1.7,3155.44,3.2,Storm,Delayed
+SHP10188,2025-07-08,East,Road,Container,835.2,4.95,6,6.5,3055.19,3.4,Clear,On Time
+SHP10189,2025-07-09,South,Air,Van,523.4,14.4,3,2.4,2219.8,3.6,Fog,On Time
+SHP10190,2025-07-10,North,Road,Truck,790.2,15.31,3,4.1,4823.71,3.8,Rain,On Time
+SHP10191,2025-07-11,Central,Rail,Bike,450.4,14.99,6,8.2,5361.09,4.7,Clear,On Time
+SHP10192,2025-07-12,Central,Road,Van,692.1,6.9,1,1.7,2948.9,3.2,Rain,Cancelled
+SHP10193,2025-07-13,West,Rail,Van,25000.0,4.71,4,5.4,5043.22,3.8,Clear,In Transit
+SHP10194,2025-07-14,South,Road,Truck,674.1,10.1,4,5.8,3110.91,4.6,Storm,On Time
+SHP10195,2025-07-15,South,Ship,Truck,266.8,3.58,2,2.1,1695.4,3.8,Fog,On Time
+SHP10196,2025-07-16,West,Ship,Van,895.8,11.78,3,5.6,3239.9,4.3,Clear,Cancelled
+SHP10197,2025-07-17,Central,Ship,Bike,484.5,4.39,4,1.8,4201.69,3.9,Clear,On Time
+SHP10198,2025-07-18,Central,Air,Van,106.0,6.1,4,2.9,1235.82,4.2,Rain,On Time
+SHP10199,2025-07-19,West,Road,Truck,444.8,11.96,1,0.7,3213.17,3.9,Clear,In Transit
+SHP10200,2025-07-20,West,Air,Bike,524.5,1.49,6,5.9,2097.15,4.4,Clear,On Time
+SHP10201,2025-07-21,North,Road,Truck,614.1,4.53,2,3.2,2450.46,3.0,Clear,On Time
+SHP10202,2025-07-22,North,Road,Truck,1092.1,9.27,2,3.9,4862.96,3.8,Clear,Cancelled
+SHP10203,2025-07-23,Central,Road,Truck,236.3,10.66,2,2.7,1876.32,4.2,Clear,Delayed
+SHP10204,2025-07-24,East,Road,Container,1096.6,9.52,1,3.2,3715.78,4.3,Fog,On Time
+SHP10205,2025-07-25,North,Air,Bike,346.9,6.04,2,1.5,3234.4,5.0,Storm,On Time
+SHP10206,2025-07-26,North,Air,Truck,194.5,12.77,7,6.1,3792.6,3.7,Rain,On Time
+SHP10207,2025-07-27,West,Road,Bike,240.2,3.32,3,3.7,2372.4,5.0,Fog,In Transit
+SHP10208,2025-07-28,North,Road,Truck,504.3,3.21,2,2.1,2067.27,3.6,Clear,On Time
+SHP10209,2025-07-29,North,Ship,Bike,172.8,9.2,2,0.7,1617.38,4.9,Clear,On Time
+SHP10210,2025-07-30,East,Road,Container,270.1,3.03,4,5.4,1966.7,4.5,Clear,Cancelled
+SHP10211,2025-07-31,West,ship,Container,437.4,20.57,5,7.0,3128.17,3.4,Rain,On Time
+SHP10212,2025-08-01,West,Road,Truck,891.5,4.63,2,4.8,2827.28,4.2,Storm,On Time
+SHP10213,2025-08-02,North,Air,Bike,602.8,12.61,1,2.0,3571.35,4.0,Rain,On Time
+SHP10214,2025-08-03,West,Air,Container,356.8,2.62,2,3.1,2146.99,4.4,Fog,On Time
+SHP10215,2025-08-04,North,Road,Truck,502.8,17.83,1,3.1,2201.92,3.9,Rain,On Time
+SHP10216,2025-08-05,South,Road,Container,408.9,7.24,2,1.9,1880.1,3.8,Clear,Cancelled
+SHP10217,2025-08-06,West,Air,Truck,135.0,4.54,3,4.3,1374.39,4.9,Clear,In Transit
+SHP10218,2025-08-07,West,Rail,Bike,989.0,5.74,2,3.7,3541.06,3.9,Clear,On Time
+SHP10219,2025-08-08,Central,Road,Truck,900.3,4.0,3,5.2,5546.5,4.5,Clear,On Time
+SHP10220,2025-08-09,West,Ship,Container,328.1,6.09,2,2.7,2316.57,3.9,Rain,Delayed
+SHP10221,2025-08-10,East,Road,Van,246.7,2.75,6,7.6,1402.23,5.0,Clear,On Time
+SHP10222,2025-08-11,North,Road,Truck,137.6,4.65,6,6.4,1833.8,3.6,Rain,On Time
+SHP10223,2025-08-12,South,Ship,Truck,523.6,12.45,4,3.3,2586.27,3.6,Rain,Cancelled
+SHP10224,2025-08-13,South,Road,Truck,525.8,8.31,3,5.2,2896.59,5.0,Clear,On Time
+SHP10225,2025-08-14,South,Rail,Van,45000.0,3.27,3,2.3,2188.24,,Clear,On Time
+SHP10226,2025-08-15,Central,Road,Truck,412.2,6.24,3,4.8,3482.08,5.0,Clear,On Time
+SHP10227,2025-08-16,South,Road,Van,590.8,15.42,4,4.8,3035.35,4.6,Clear,On Time
+SHP10228,2025-08-17,Central,Ship,Truck,234.3,5.06,3,4.5,3677.78,3.9,Fog,On Time
+SHP10229,2025-08-18,West,Road,Truck,300.0,3.0,5,6.6,2762.02,2.8,Clear,On Time
+SHP10230,2025-08-19,West,Ship,Container,297.9,10.4,6,6.9,1840.7,4.0,Rain,On Time
+SHP10231,2025-08-20,East,Road,Truck,193.8,1.07,3,3.8,4550.21,4.1,Fog,Delayed
+SHP10232,2025-08-21,East,Road,Bike,304.4,5.83,4,4.9,2324.5,4.8,Fog,On Time
+SHP10233,2025-08-22,East,Road,Bike,90.9,16.31,1,0.5,1536.45,5.0,Fog,On Time
+SHP10234,2025-08-23,North,Rail,Van,286.9,6.11,2,2.5,3853.25,3.6,Clear,Delayed
+SHP10235,2025-08-24,West,Road,Van,290.0,13.27,3,2.3,4902.53,4.5,Clear,In Transit
+SHP10236,2025-08-25,South,Ship,Bike,331.0,2.97,2,2.6,2022.3,4.5,Clear,On Time
+SHP10237,2025-08-26,North,Road,Truck,478.2,5.94,6,5.5,2178.67,4.7,Clear,On Time
+SHP10238,2025-08-27,West,Ship,Truck,128.5,5.54,2,1.0,1578.94,4.3,Storm,On Time
+SHP10239,2025-08-28,North,Road,Truck,149.4,10.03,3,4.8,2475.34,2.7,Rain,In Transit
+SHP10240,2025-08-29,Central,Ship,Container,190.0,7.52,4,5.3,3128.7,3.9,Clear,On Time
+SHP10241,2025-08-30,Central,Air,Truck,117.4,17.73,4,4.2,2537.49,3.2,Clear,On Time
+SHP10242,2025-08-31,Central,Air,Van,514.6,4.86,3,3.9,2583.93,3.9,Clear,On Time
+SHP10243,2025-09-01,South,Ship,Bike,226.7,7.46,5,5.1,3522.38,4.6,Rain,On Time
+SHP10244,2025-09-02,North,Air,Bike,338.3,5.69,4,5.1,1963.8,4.2,Rain,On Time
+SHP10245,2025-09-03,Central,Rail,Van,177.6,7.08,3,2.6,2775.19,4.7,Fog,On Time
+SHP10246,2025-09-04,South,Road,Truck,265.1,6.64,1,2.4,1850.01,4.2,Storm,In Transit
+SHP10247,2025-09-05,Central,Road,Container,425.6,3.55,3,3.4,2596.76,3.2,Clear,Delayed
+SHP10248,2025-09-06,Central,Ship,Van,439.6,12.0,5,5.2,2525.7,2.4,Clear,On Time
+SHP10249,2025-09-07,Central,Rail,Truck,154.6,4.28,4,4.2,1665.22,4.1,Clear,On Time
+SHP10250,2025-09-08,South,Air,Truck,326.6,4.05,5,4.9,1845.07,3.9,Clear,On Time
+SHP10251,2025-09-09,South,Road,Bike,179.9,1.95,3,3.6,3003.4,3.4,Storm,On Time
+SHP10252,2025-09-10,Central,Road,Van,318.1,4.75,2,1.9,1675.95,2.9,Rain,In Transit
+SHP10253,2025-09-11,South,Road,Container,212.7,4.24,1,1.8,1422.98,3.5,Rain,Cancelled
+SHP10254,2025-09-12,North,Air,Bike,1028.2,1.23,3,5.7,6196.58,3.9,Clear,On Time
+SHP10255,2025-09-13,East,Road,Van,588.6,6.07,4,4.1,3582.58,4.4,Clear,On Time
+SHP10256,2025-09-14,Central,Road,Van,452.4,17.22,5,5.5,1924.4,4.1,Clear,On Time
+SHP10257,2025-09-15,West,Road,Truck,282.0,2.25,3,3.9,1587.27,5.0,Clear,Delayed
+SHP10258,2025-09-16,East,Road,Truck,599.7,6.99,3,3.4,2011.37,3.3,Rain,Delayed
+SHP10259,2025-09-17,North,Rail,Truck,333.3,5.96,3,3.9,1660.33,4.6,Clear,In Transit
+SHP10260,2025-09-18,East,Road,Container,963.5,10.95,3,4.9,2718.63,4.0,Rain,In Transit
+SHP10261,2025-09-19,Central,Air,Van,638.5,11.5,2,4.0,2931.21,4.5,Fog,On Time
+SHP10262,2025-09-20,North,Road,Bike,263.7,25.63,2,1.8,2123.92,3.7,Clear,Delayed
+SHP10263,2025-09-21,East,,Truck,895.5,8.52,2,2.3,3520.86,4.7,Rain,Delayed
+SHP10264,2025-09-22,Central,Road,Van,283.0,3.82,1,1.1,1252.11,4.2,Clear,On Time
+SHP10265,2025-09-23,West,Road,Van,1065.5,4.65,2,2.6,3775.36,3.6,Rain,On Time
+SHP10266,2025-09-24,West,Road,Van,925.5,5.02,1,2.9,3176.48,4.0,Rain,Delayed
+SHP10267,2025-09-25,West,Road,Container,424.1,4.37,4,3.4,3854.51,3.8,Storm,Delayed
+SHP10268,2025-09-26,South,Rail,Truck,94.0,19.99,3,5.5,3540.42,4.3,Clear,Delayed
+SHP10269,2025-09-27,South,Road,Van,402.2,11.13,7,8.9,3141.11,3.2,Clear,Delayed
+SHP10270,2025-09-28,West,Air,Truck,141.9,9.97,2,2.2,1673.82,4.0,Clear,Delayed
+SHP10271,2025-09-29,West,Ship,Truck,217.6,3.07,3,4.2,4197.96,4.3,Clear,Delayed
+SHP10272,2025-09-30,Central,Air,Van,230.1,11.42,3,1.7,1421.78,4.0,Rain,On Time
+SHP10273,2025-10-01,Central,Road,Van,140.9,14.66,1,3.7,1383.14,4.9,Storm,Delayed
+SHP10274,2025-10-02,East,Road,Bike,403.2,6.04,5,5.0,2255.83,4.5,Clear,On Time
+SHP10275,2025-10-03,East,Road,Van,198.6,4.61,1,1.2,4785.19,4.0,Clear,On Time
+SHP10276,2025-10-04,West,Road,Container,292.4,18.01,6,4.6,2357.96,4.1,Clear,On Time
+SHP10277,2025-10-05,West,Ship,Van,231.6,4.17,6,6.8,1751.24,4.2,Clear,Delayed
+SHP10278,2025-10-06,West,Road,Van,479.6,3.84,4,3.6,1737.89,4.3,Clear,Delayed
+SHP10279,2025-10-07,West,Road,Truck,456.8,3.37,4,4.8,3162.0,2.8,Clear,Cancelled
+SHP10280,2025-10-08,Central,Rail,Truck,275.8,6.75,4,3.8,2890.25,3.8,Rain,On Time
+SHP10281,2025-10-09,South,Air,Truck,495.4,8.5,3,2.6,3257.94,3.0,Clear,On Time
+SHP10282,2025-10-10,South,Rail,Van,747.9,13.38,4,4.3,2971.1,4.8,Clear,On Time
+SHP10283,2025-10-11,North,Road,Truck,49.7,10.27,1,1.3,1290.44,4.0,Fog,On Time
+SHP10284,2025-10-12,East,Road,Truck,221.8,10.16,1,0.5,1438.69,3.9,Clear,In Transit
+SHP10285,2025-10-13,North,Rail,Truck,164.3,16.13,3,2.5,2195.19,4.6,Rain,On Time
+SHP10286,2025-10-14,East,Road,Bike,207.1,3.24,4,5.0,1238.01,4.3,Rain,Delayed
+SHP10287,2025-10-15,East,Road,Truck,41.4,2.14,6,8.7,800.22,3.3,Rain,Delayed
+SHP10288,2025-10-16,South,Road,Van,47.8,10.61,2,2.5,1436.55,4.0,Clear,On Time
+SHP10289,2025-10-17,East,Road,Truck,237.5,6.52,5,4.4,1676.78,3.8,Clear,In Transit
+SHP10290,2025-10-18,North,Road,Van,232.5,13.42,2,2.0,1882.75,2.9,Fog,On Time
+SHP10291,2025-10-19,North,Road,Truck,816.1,6.97,3,4.2,3605.78,3.6,Rain,On Time
+SHP10292,2025-10-20,West,Rail,Truck,381.9,4.49,3,3.2,2263.15,3.9,Clear,In Transit
+SHP10293,2025-10-21,South,Air,Van,487.1,10.72,3,4.6,2481.16,3.9,Clear,In Transit
+SHP10294,2025-10-22,North,Ship,Truck,2531.8,7.6,2,5.8,7176.27,3.0,Clear,On Time
+SHP10295,2025-10-23,East,Road,Truck,49.9,6.97,3,4.0,1056.24,4.7,Clear,On Time
+SHP10296,2025-10-24,West,Road,Truck,973.7,28.67,5,6.1,4429.81,3.9,Rain,On Time
+SHP10297,2025-10-25,North,Road,Truck,334.9,15.34,3,4.8,2590.31,4.0,Clear,On Time
+SHP10298,2025-10-26,West,Rail,Truck,252.1,11.64,3,3.2,1492.26,4.3,Clear,Cancelled
+SHP10299,2025-10-27,North,Air,Truck,224.4,7.76,5,4.3,2860.96,3.5,Rain,Delayed
+SHP10300,2025-10-28,North,Road,Container,433.7,7.3,4,6.8,1956.0,4.3,Clear,On Time
+SHP10301,2025-10-29,East,Ship,Van,253.7,5.72,3,1.5,2032.03,3.8,Rain,In Transit
+SHP10302,2025-10-30,East,Road,Van,137.7,8.31,2,1.5,2893.24,3.4,Rain,On Time
+SHP10303,2025-10-31,West,Rail,Truck,230.8,4.95,6,5.7,2697.52,4.4,Clear,On Time
+SHP10304,2025-11-01,West,Air,Bike,442.1,2.72,4,7.1,2302.89,5.0,Rain,Cancelled
+SHP10305,2025-11-02,Central,Ship,Truck,544.4,6.91,2,4.6,2432.43,4.5,Rain,In Transit
+SHP10306,2025-11-03,East,Air,Truck,1036.5,8.78,2,5.0,4628.47,4.6,Clear,In Transit
+SHP10307,2025-11-04,South,Ship,Van,370.7,13.44,5,5.2,3042.45,3.7,Clear,On Time
+SHP10308,2025-11-05,West, ROAD,Truck,776.1,3.86,1,4.5,2705.08,3.0,Clear,In Transit
+SHP10309,2025-11-06,South,Ship,Truck,300.4,7.34,7,7.8,1700.53,5.0,Storm,On Time
+SHP10310,2025-11-07,South,Road,Van,330.5,10.22,2,3.4,1472.49,5.0,Rain,Delayed
+SHP10311,2025-11-08,North,,Bike,318.2,10.07,5,5.6,2371.61,5.0,Clear,Cancelled
+SHP10312,2025-11-09,North,Rail,Van,401.6,19.36,3,3.5,2719.2,3.8,Rain,On Time
+SHP10313,2025-11-10,,Ship,Container,608.3,5.8,3,3.6,3805.3,3.2,Clear,In Transit
+SHP10314,2025-11-11,West,Road,Bike,246.0,3.61,6,6.1,350000.0,3.3,Rain,On Time
+SHP10315,2025-11-12,West,Rail,Truck,171.3,7.68,3,3.9,3170.23,2.9,Rain,On Time
+SHP10316,2025-11-13,South,Rail,Truck,639.9,6.02,4,5.3,2444.36,3.9,Clear,In Transit
+SHP10317,2025-11-14,North,Air,Truck,610.8,5.28,1,1.8,3795.04,5.0,Fog,On Time
+SHP10318,2025-11-15,North,Road,Truck,853.9,4.77,1,3.7,2951.58,3.9,Rain,Delayed
+SHP10319,2025-11-16,South,Road,Truck,218.3,8.81,2,0.5,2647.39,4.2,Rain,On Time
+SHP10320,2025-11-17,East,Road,Bike,292.7,4.29,4,4.9,1337.4,4.9,Clear,Cancelled
+SHP10321,2025-11-18,West,Road,Container,655.5,11.63,2,3.7,3228.44,3.7,Fog,On Time
+SHP10322,2025-11-19,West,Ship,Van,243.8,11.27,2,3.5,1337.65,5.0,Storm,On Time
+SHP10323,2025-11-20,South,Road,Truck,529.4,9.35,3,3.7,2538.29,5.0,Clear,On Time
+SHP10324,2025-11-21,Central,Ship,Container,301.3,3.24,4,4.6,2320.36,3.9,Clear,Cancelled
+SHP10325,2025-11-22,West,Road,Bike,432.2,8.54,4,5.6,2159.76,3.6,Clear,Delayed
+SHP10326,2025-11-23,East,Road,Container,135.4,14.02,2,3.7,1468.69,4.5,Rain,In Transit
+SHP10327,2025-11-24,East,Air,Truck,367.4,12.19,1,1.2,3165.1,3.8,Rain,On Time
+SHP10328,2025-11-25,South,Rail,Van,738.4,11.09,6,7.3,3157.56,3.2,Clear,On Time
+SHP10329,2025-11-26,South,Road,Truck,575.7,7.27,2,4.5,2446.86,4.8,Fog,On Time
+SHP10330,2025-11-27,South,Rail,Truck,162.5,7.04,5,3.1,1844.12,4.8,Clear,Delayed
+SHP10331,2025-11-28,,Air,Truck,985.0,15.5,5,5.7,7877.12,4.1,Fog,On Time
+SHP10332,2025-11-29,North,Road,Van,709.8,8.71,5,7.5,4152.11,3.2,Clear,Cancelled
+SHP10333,2025-11-30,North,Ship,Van,140.8,8.79,2,3.3,2914.54,3.2,Clear,In Transit
+SHP10334,2025-12-01,North,Ship,Truck,232.0,33.92,5,5.9,3237.62,4.1,Clear,On Time
+SHP10335,2025-12-02,North,Rail,Truck,147.4,5.71,5,4.8,1852.31,3.7,Clear,On Time
+SHP10336,2025-12-03,Central,Road,Van,440.4,1.15,4,3.7,1333.59,3.8,Rain,In Transit
+SHP10337,2025-12-04,West,Air,Truck,224.3,6.33,3,2.7,1549.28,4.7,Rain,On Time
+SHP10338,2025-12-05,East,Road,Truck,61.0,6.59,2,3.6,1295.31,4.5,Clear,On Time
+SHP10339,2025-12-06,North,,Truck,329.4,8.63,2,1.8,1458.9,4.9,Clear,On Time
+SHP10340,2025-12-07,East,Road,Container,623.7,10.01,3,4.0,2363.74,3.4,Clear,Delayed
+SHP10341,2025-12-08,East,Road,Truck,372.7,1.32,4,3.8,1273.84,3.8,Rain,In Transit
+SHP10342,2025-12-09,North,Ship,Truck,498.2,10.14,3,4.6,2637.63,4.5,Rain,On Time
+SHP10343,2025-12-10,South,Air,Truck,397.6,6.87,3,3.0,3016.52,4.3,Clear,On Time
+SHP10344,2025-12-11,South,Air,Bike,560.2,5.9,3,3.7,3666.64,5.0,Rain,On Time
+SHP10345,2025-12-12,East,Road,Van,422.1,1.85,4,2.9,2515.9,4.3,Clear,In Transit
+SHP10346,2025-12-13,West,Road,Van,316.7,17.59,6,4.8,2025.85,5.0,Storm,On Time
+SHP10347,2025-12-14,North,Road,Truck,369.5,5.23,2,2.5,1414.74,4.4,Storm,On Time
+SHP10348,2025-12-15,South,Ship,Van,873.9,11.18,3,2.9,2775.03,4.7,Rain,Cancelled
+SHP10349,2025-12-16,West,Road,Truck,516.9,3.82,2,4.8,1873.97,3.8,Storm,Cancelled
+SHP10350,2025-12-17,East,Ship,Van,162.1,8.88,4,2.2,1410.74,4.0,Fog,Cancelled
+SHP10351,2025-12-18,Central,Rail,Bike,365.4,5.97,4,3.7,2122.86,4.6,Fog,In Transit
+SHP10352,2025-12-19,West,Road,Van,435.1,10.96,6,6.6,2034.64,5.0,Rain,On Time
+SHP10353,2025-12-20,North,Air,Bike,309.2,5.82,2,2.1,2344.3,4.5,Clear,On Time
+SHP10354,2025-12-21,North,Road,Container,61.3,3.68,7,6.0,1330.28,3.9,Clear,On Time
+SHP10355,2025-12-22,West,Ship,Truck,175.7,7.09,1,0.5,1853.71,4.9,Clear,On Time
+SHP10356,2025-12-23,North,Ship,Bike,254.2,6.85,4,3.4,3068.09,2.6,Rain,Cancelled
+SHP10357,2025-12-24,East,Road,Truck,1056.9,8.49,1,2.2,3255.58,3.1,Clear,In Transit
+SHP10358,2025-12-25,Central,Road,Van,480.3,13.16,6,8.6,3043.08,4.4,Clear,Delayed
+SHP10359,2025-12-26,East,Rail,Truck,91.0,3.08,3,3.2,1510.69,4.0,Clear,On Time
+SHP10360,2025-12-27,South,Ship,Truck,323.5,12.73,4,5.6,2166.12,4.4,Clear,Cancelled
+SHP10361,2025-12-28,West,Road,Truck,788.9,2.73,5,6.6,3803.3,4.0,Rain,In Transit
+SHP10362,2025-12-29,East,Rail,Truck,221.9,10.69,2,3.4,2827.74,4.4,Storm,On Time
+SHP10363,2025-12-30,East,Rail,Van,671.5,10.91,1,0.5,2579.28,3.5,Rain,In Transit
+SHP10364,2025-12-31,Central,Air,Van,93.7,5.03,6,5.8,1478.62,4.4,Rain,On Time
+SHP10365,2026-01-01,South,Road,Truck,19.9,3.97,3,4.3,1597.42,4.6,Rain,On Time
+SHP10366,2026-01-02,Central,Air,Truck,736.1,3.81,2,2.5,2795.76,4.8,Clear,Delayed
+SHP10367,2026-01-03,Central,Ship,Van,244.5,7.57,3,5.1,2474.83,5.0,Clear,Delayed
+SHP10368,2026-01-04,,Road,Truck,259.2,11.37,4,5.9,2382.87,4.2,Fog,On Time
+SHP10369,2026-01-05,North,Road,Container,395.0,6.46,1,1.1,4415.73,4.2,Clear,On Time
+SHP10370,2026-01-06,West ,Ship,Van,469.0,1.06,2,2.2,1591.25,3.0,Clear,Cancelled
+SHP10371,2026-01-07,North,Road,Container,30.4,4.79,1,0.5,1367.57,3.7,Rain,Delayed
+SHP10372,2026-01-08,North,Ship,Van,208.7,4.67,3,2.7,1357.92,3.9,Clear,In Transit
+SHP10373,2026-01-09,West,ship,Truck,360.7,9.96,6,5.3,2831.76,4.7,Clear,On Time
+SHP10374,2026-01-10,North,Road,Van,468.3,10.3,7,8.1,1888.74,3.6,Clear,On Time
+SHP10375,2026-01-11,South,Ship,Truck,160.5,7.97,4,2.8,2098.31,4.5,Clear,On Time
+SHP10376,2026-01-12,Central,Road,Truck,297.7,12.75,2,3.0,1958.22,4.0,Clear,On Time
+SHP10377,2026-01-13,North,Rail,Container,221.4,13.36,6,6.9,1764.01,3.9,Clear,On Time
+SHP10378,2026-01-14,West,Road,Truck,404.2,5.0,3,1.9,1611.23,4.2,Rain,On Time
+SHP10379,2026-01-15,South,Rail,Container,719.3,3.75,2,4.6,2652.14,3.7,Fog,Delayed
+SHP10380,2026-01-16,North,Road,Container,269.9,6.78,6,6.9,3031.66,3.7,Clear,On Time
+SHP10381,2026-01-17,West,Road,Bike,109.0,7.95,5,5.9,1713.34,2.9,Fog,In Transit
+SHP10382,2026-01-18,West,Ship,Bike,200.0,4.82,5,4.5,2320.37,3.8,Clear,On Time
+SHP10383,2026-01-19,Central,Road,Truck,978.7,39.02,4,6.0,6546.52,3.7,Clear,On Time
+SHP10384,2026-01-20,West,Rail,Truck,176.3,16.95,2,3.4,2382.28,3.7,Clear,On Time
+SHP10385,2026-01-21,West,Road,Van,128.6,4.49,2,2.1,1331.35,4.3,Rain,On Time
+SHP10386,2026-01-22,South,Air,Truck,257.8,3.18,4,6.4,2245.57,4.4,Clear,On Time
+SHP10387,2026-01-23,North,Road,Van,323.6,4.23,2,2.5,1758.39,4.2,Rain,Cancelled
+SHP10388,2026-01-24,West,Ship,Container,231.9,13.52,3,4.5,1901.72,4.6,Rain,In Transit
+SHP10389,2026-01-25,West,Road,Van,94.2,13.73,5,5.4,1213.14,4.4,Clear,On Time
+SHP10390,2026-01-26,Central,Road,Truck,431.5,17.08,5,6.2,3564.25,,Rain,On Time
+SHP10391,2026-01-27,South,Road,Truck,404.5,3.66,3,1.9,1998.14,3.7,Storm,Delayed
+SHP10392,2026-01-28,South,Road,Truck,546.8,9.94,5,6.2,2890.5,4.2,Clear,In Transit
+SHP10393,2026-01-29,West,Rail,Truck,398.3,3.92,5,4.8,1699.01,4.4,Clear,On Time
+SHP10394,2026-01-30,South,Road,Bike,928.3,19.41,4,4.5,4261.97,4.9,Rain,Delayed
+SHP10395,2026-01-31,Central,Ship,Truck,575.0,3.76,2,4.6,2193.66,4.8,Rain,In Transit
+SHP10396,2026-02-01,Central,Road,Truck,501.2,2.64,2,2.5,2316.13,3.6,Clear,In Transit
+SHP10397,2026-02-02,South,Road,Truck,736.2,3.04,3,3.0,3690.17,3.9,Clear,In Transit
+SHP10398,2026-02-03,West,Rail,Van,381.7,7.12,2,2.2,2961.23,4.4,Clear,In Transit
+SHP10399,2026-02-04,West,Air,Van,302.3,11.27,2,1.1,2256.88,4.7,Clear,Cancelled
+SHP10400,2026-02-05,North,Road,Truck,,10.8,2,4.0,1778.12,4.6,Clear,On Time
+SHP10401,2026-02-06,Central,Road,Truck,,3.14,3,2.4,6523.94,4.0,Storm,Delayed
+SHP10402,2026-02-07,East,Road,Truck,382.6,5.42,6,7.1,4197.41,3.2,Rain,In Transit
+SHP10403,2026-02-08,West,Air,Truck,323.3,4.92,2,3.8,2686.94,3.4,Clear,Delayed
+SHP10404,2026-02-09,South,Rail,Van,460.1,2.81,4,4.2,1911.47,4.2,Rain,Cancelled
+SHP10405,2026-02-10,Central,Road,Van,672.8,4.83,4,5.5,2787.78,4.2,Fog,On Time
+SHP10406,2026-02-11,South,Ship,Truck,510.9,16.62,1,0.7,2604.53,3.3,Clear,On Time
+SHP10407,2026-02-12,North,Ship,Truck,200.4,2.52,6,8.7,2957.8,4.0,Clear,On Time
+SHP10408,2026-02-13,Central,Rail,Bike,603.4,8.32,4,5.8,3018.89,4.4,Clear,On Time
+SHP10409,2026-02-14,North,Ship,Van,936.8,16.86,3,4.1,3438.44,3.3,Fog,On Time
+SHP10410,2026-02-15,South,Road,Van,684.1,16.32,5,5.2,3011.72,4.7,Clear,Delayed
+SHP10411,2026-02-16,Central,Road,Truck,117.8,19.98,2,2.1,3203.89,3.8,Storm,On Time
+SHP10412,2026-02-17,Central,Road,Van,507.3,8.87,4,4.4,4348.6,4.8,Clear,In Transit
+SHP10413,2026-02-18,East,Road,Truck,133.6,9.75,1,3.1,3444.17,3.7,Clear,Delayed
+SHP10414,2026-02-19,West,Rail,Van,281.1,,5,4.2,2627.8,3.3,Clear,On Time
+SHP10415,2026-02-20,East,Ship,Bike,451.0,2.48,3,3.8,2133.75,3.7,Clear,On Time
+SHP10416,2026-02-21,South,Road,Truck,411.7,6.45,4,4.6,1335.3,3.9,Fog,Delayed
+SHP10417,2026-02-22,South,Road,Truck,,14.58,2,2.8,3423.55,3.7,Storm,In Transit
+SHP10418,2026-02-23,West,Road,Truck,939.7,1.05,4,5.2,3314.84,3.9,Clear,In Transit
+SHP10419,2026-02-24,West,Ship,Truck,481.9,5.06,5,5.6,2546.24,4.2,Storm,In Transit
+SHP10420,2026-02-25,West,Road,Truck,265.4,10.38,3,4.3,2195.61,3.9,Fog,Cancelled
+SHP10421,2026-02-26,West,Rail,Truck,61.2,7.18,4,4.7,970.32,4.0,Clear,Delayed
+SHP10422,2026-02-27,North,Road,Container,785.7,15.75,3,4.5,3926.57,2.9,Rain,Cancelled
+SHP10423,2026-02-28,East,Road,Van,324.5,13.64,6,3.4,2907.24,4.3,Clear,In Transit
+SHP10424,2026-03-01,North,Ship,Truck,336.8,2.24,3,3.8,2583.27,3.9,Rain,In Transit
+SHP10425,2026-03-02,East,Ship,Bike,356.3,7.6,5,3.9,3089.68,5.0,Clear,On Time
+SHP10426,2026-03-03,East,Road,Truck,467.1,4.07,5,6.3,2859.64,3.4,Rain,Cancelled
+SHP10427,2026-03-04,Central,Ship,Bike,476.4,4.03,3,5.2,2156.41,2.8,Clear,On Time
+SHP10428,2026-03-05,South,Rail,Truck,284.4,2.38,2,1.5,1874.64,4.4,Fog,In Transit
+SHP10429,2026-03-06,North,Ship,Bike,322.2,8.49,3,3.2,2280.25,4.2,Fog,On Time
+SHP10430,2026-03-07,North,Road,Van,218.5,15.96,5,4.7,2325.23,3.3,Clear,On Time
+SHP10431,2026-03-08,West,Rail,Container,200.3,9.0,2,3.5,2854.25,3.0,Clear,On Time
+SHP10432,2026-03-09,East,Road,Bike,199.5,2.26,3,3.4,2244.79,5.0,Clear,On Time
+SHP10433,2026-03-10,North,Rail,Truck,319.5,6.9,5,7.2,4743.57,4.9,Rain,On Time
+SHP10434,2026-03-11,North,Road,Bike,170.2,10.12,3,3.7,4807.44,2.4,Clear,In Transit
+SHP10435,2026-03-12,West,Road,Truck,18.3,6.55,4,4.3,1535.75,3.7,Rain,On Time
+SHP10436,2026-03-13,North,Road,Truck,262.0,8.89,2,2.4,1034.46,5.0,Clear,On Time
+SHP10437,2026-03-14,West,Air,Truck,124.3,4.32,2,3.0,2817.55,3.7,Clear,On Time
+SHP10438,2026-03-15,West,Road,Van,373.6,6.02,5,3.8,1932.98,3.7,Clear,Delayed
+SHP10439,2026-03-16,North,Rail,Truck,217.8,5.76,1,1.4,1460.67,3.8,Clear,On Time
+SHP10440,2026-03-17,North,Ship,Van,471.1,17.83,2,2.6,2633.93,3.3,Fog,On Time
+SHP10441,2026-03-18,,Road,Van,134.6,3.2,5,5.9,1356.11,2.9,Storm,On Time
+SHP10442,2026-03-19,South,Rail,Container,73.1,1.15,3,2.9,1898.29,4.7,Clear,Delayed
+SHP10443,2026-03-20,South,Road,Container,322.8,17.12,7,6.4,1823.4,2.8,Clear,On Time
+SHP10444,2026-03-21,West,Ship,Truck,253.7,7.78,7,7.4,1500.42,4.2,Clear,On Time
+SHP10445,2026-03-22,Central,Road,Truck,115.0,2.7,2,1.1,1811.22,4.6,Rain,On Time
+SHP10446,2026-03-23,Central,Air,Truck,575.3,12.88,1,0.5,3423.68,3.1,Clear,Cancelled
+SHP10447,2026-03-24,West,Ship,Truck,154.9,10.53,4,4.9,2434.1,3.4,Rain,On Time
+SHP10448,2026-03-25,South,Ship,Truck,192.8,19.68,3,3.9,1899.1,4.8,Storm,Delayed
+SHP10449,2026-03-26,North,Air,Truck,647.5,8.21,2,3.4,2419.5,4.3,Clear,On Time
+SHP10450,2026-03-27,West,Road,Truck,489.4,28.72,4,6.0,2999.1,3.6,Rain,On Time
+SHP10451,2026-03-28,East,Rail,Bike,141.1,6.59,1,0.5,1923.96,4.8,Clear,On Time
+SHP10452,2026-03-29,South,Ship,Van,271.0,10.54,6,5.0,3708.66,4.8,Clear,On Time
+SHP10453,2026-03-30,Central,Rail,Truck,129.3,11.56,2,2.1,1082.1,4.2,Clear,On Time
+SHP10454,2026-03-31,North,Road,Van,617.2,5.21,2,2.5,2613.6,3.4,Clear,On Time
+SHP10455,2026-04-01,East,Ship,Truck,616.9,5.09,2,2.0,2117.65,3.7,Clear,On Time
+SHP10456,2026-04-02,North,Air,Truck,1026.7,11.71,7,8.4,3157.05,4.2,Clear,Delayed
+SHP10457,2026-04-03,East,Rail,Van,1277.4,2.51,4,5.2,4960.94,3.9,Clear,Cancelled
+SHP10458,2026-04-04,North,Road,Van,215.8,4.05,5,3.5,2251.75,4.6,Clear,On Time
+SHP10459,2026-04-05, SOUTH,Rail,Truck,553.5,6.46,3,3.3,2995.63,3.0,Rain,Delayed
+SHP10460,2026-04-06,North,Road,Bike,63.1,19.3,3,2.0,2825.68,3.0,Storm,Cancelled
+SHP10461,2026-04-07,West,Rail,Bike,393.6,11.72,2,2.8,2207.02,4.1,Clear,In Transit
+SHP10462,2026-04-08,West,Road,Van,461.9,7.57,3,3.0,2236.45,3.7,Clear,On Time
+SHP10463,2026-04-09,East,Rail,Van,162.0,4.86,4,5.3,4559.04,3.6,Clear,In Transit
+SHP10464,2026-04-10,Central,Ship,Van,205.5,24.25,4,5.9,2359.11,2.9,Fog,On Time
+SHP10465,2026-04-11,South,Road,Truck,619.6,6.87,2,3.6,3419.44,4.0,Rain,On Time
+SHP10466,2026-04-12,South,Ship,Truck,469.6,4.05,6,5.1,2391.1,4.0,Clear,On Time
+SHP10467,2026-04-13,Central,ship,Truck,945.4,27.19,2,4.9,3470.07,4.4,Clear,On Time
+SHP10468,2026-04-14,North,Ship,Van,877.1,2.61,7,9.8,2414.62,4.0,Clear,On Time
+SHP10469,2026-04-15,Central,Air,Van,81.1,16.28,1,1.1,1629.66,3.9,Clear,On Time
+SHP10470,2026-04-16,North,Rail,Truck,232.8,7.24,3,4.7,2932.03,4.8,Storm,Delayed
+SHP10471,2026-04-17,Central,Air,Bike,148.3,11.7,3,2.7,2605.51,3.1,Fog,On Time
+SHP10472,2026-04-18,North,Ship,Bike,,10.35,3,1.9,3617.29,4.3,Clear,On Time
+SHP10473,2026-04-19,Central,Road,Container,420.7,11.59,4,3.8,2035.43,2.9,Clear,On Time
+SHP10474,2026-04-20,East,Road,Van,156.9,28.75,3,5.0,4298.98,3.5,Clear,On Time
+SHP10475,2026-04-21,Central,Rail,Bike,177.8,26.01,3,1.8,2014.39,3.2,Clear,Delayed
+SHP10476,2026-04-22,North,Ship,Truck,756.5,4.21,5,6.1,3174.12,4.5,Fog,Cancelled
+SHP10477,2026-04-23,East,Air,Container,253.3,10.09,4,4.4,2115.5,4.0,Clear,On Time
+SHP10478,2026-04-24,Central,Air,Truck,53.5,1.69,5,4.6,1278.29,4.0,Clear,On Time
+SHP10479,2026-04-25,East,Road,Container,145.5,12.42,2,1.8,3285.44,3.3,Clear,In Transit
+SHP10480,2026-04-26,West,Ship,Truck,1069.4,14.37,4,5.6,3678.0,3.8,Fog,On Time
+SHP10481,2026-04-27,West,Road,Bike,659.6,1.17,4,4.4,2069.0,3.5,Rain,In Transit
+SHP10482,2026-04-28,East,Rail,Bike,122.2,7.05,3,1.8,1740.96,4.2,Clear,On Time
+SHP10483,2026-04-29,West,Road,Truck,393.5,11.68,3,3.8,2247.22,3.4,Clear,On Time
+SHP10484,2026-04-30,,Road,Van,633.5,9.15,3,5.0,9480.34,4.9,Clear,On Time
+SHP10485,2026-05-01,Central,Road,Bike,80.0,2.65,2,3.0,2027.01,2.9,Storm,On Time
+SHP10486,2026-05-02,North,Road,Van,679.4,2.89,2,2.2,2563.47,3.5,Clear,On Time
+SHP10487,2026-05-03,South,Air,Bike,466.6,6.48,2,1.4,1931.31,5.0,Clear,In Transit
+SHP10488,2026-05-04,Central,Road,Van,196.0,5.21,4,4.0,1044.44,3.7,Clear,Delayed
+SHP10489,2026-05-05,Central,Road,Truck,517.3,5.58,4,6.3,2022.97,3.1,Fog,Delayed
+SHP10490,2026-05-06,East,Road,Truck,424.8,2.36,7,8.3,2308.22,4.1,Clear,In Transit
+SHP10491,2026-05-07,West,Road,Truck,444.8,7.33,4,5.3,3892.32,,Clear,On Time
+SHP10492,2026-05-08,South,Road,Container,383.8,19.39,1,2.4,3769.06,3.5,Rain,Delayed
+SHP10493,2026-05-09,North,Road,Truck,172.6,2.74,6,6.7,1850.34,3.3,Rain,On Time
+SHP10494,2026-05-10,East,Rail,Van,199.5,6.1,5,5.4,1667.01,5.0,Rain,In Transit
+SHP10495,2026-05-11,South,Rail,Van,290.8,10.84,3,4.1,2424.24,3.8,Fog,On Time
+SHP10496,2026-05-12,East,Rail,Van,357.4,1.93,4,4.0,1765.02,2.7,Clear,Delayed
+SHP10497,2026-05-13,North,Road,Bike,537.6,7.38,7,6.4,4559.5,5.0,Clear,In Transit
+SHP10498,2026-05-14,Central,Road,Bike,1085.2,14.08,4,6.3,3972.44,4.4,Storm,On Time
+SHP10499,2026-05-15,Central,Ship,Truck,406.2,3.24,6,7.8,2162.8,3.5,Clear,On Time
+SHP10500,2026-05-16,West,Rail,Container,531.4,7.89,1,0.6,1803.5,3.4,Rain,On Time
+SHP10501,2026-05-17,East,Road,Container,612.7,13.42,2,3.7,2906.09,4.4,Rain,On Time
+SHP10502,2026-05-18,South,Road,Van,556.4,27.82,3,5.5,4117.75,3.8,Clear,Delayed
+SHP10503,2026-05-19,West,Road,Bike,167.3,7.61,4,4.2,1308.09,2.7,Clear,Cancelled
+SHP10504,2026-05-20,West,,Truck,801.7,4.12,5,5.3,2709.94,5.0,Rain,On Time
+SHP10505,2026-05-21,North,Road,Truck,723.8,4.15,7,8.2,3611.91,3.7,Fog,On Time
+SHP10506,2026-05-22,Central,Rail,Bike,380.1,2.25,3,3.0,1452.96,5.0,Rain,Delayed
+SHP10507,2026-05-23,West,Rail,Truck,175.5,20.41,1,0.6,3268.95,4.8,Clear,On Time
+SHP10508,2026-05-24,Central,Rail,Container,353.4,12.89,5,5.9,2133.07,3.3,Clear,On Time
+SHP10509,2026-05-25,West,Air,Bike,89.7,2.89,4,2.5,1277.25,4.7,Clear,Cancelled
+SHP10510,2026-05-26,East,Ship,Truck,867.9,3.94,2,1.8,2700.47,3.6,Clear,Delayed
+SHP10511,2026-05-27,South,Air,Bike,214.1,7.52,3,3.3,2226.3,2.8,Clear,On Time
+SHP10512,2026-05-28,,Ship,Truck,280.0,14.02,5,5.4,5795.49,3.7,Storm,On Time
+SHP10513,2026-05-29,Central,Road,Van,829.5,10.11,5,6.5,4041.53,4.3,Fog,Delayed
+SHP10514,2026-05-30,North,Road,Van,768.0,9.45,3,6.0,2773.79,3.7,Rain,In Transit
+SHP10515,2026-05-31,North,Road,Bike,436.2,8.26,3,3.7,3512.07,3.8,Clear,In Transit
+SHP10516,2026-06-01,South,Rail,Truck,949.9,3.02,7,9.0,3213.72,4.7,Clear,On Time
+SHP10517,2026-06-02,West,Ship,Van,163.0,7.59,4,3.3,3205.34,4.1,Storm,Cancelled
+SHP10518,2026-06-03,Central,Road,Van,436.3,6.96,3,4.4,3092.21,3.5,Clear,Delayed
+SHP10519,2026-06-04,North,,Container,164.1,2.23,3,2.7,679.22,4.5,Clear,Delayed
+SHP10520,2026-06-05,East,Road,Van,695.9,20.08,5,6.1,2931.46,4.1,Clear,Delayed
+SHP10521,2026-06-06,South,Ship,Truck,680.4,4.56,2,2.9,3693.84,2.4,Fog,On Time
+SHP10522,2026-06-07,Central,Road,Truck,991.9,2.28,2,4.4,3579.37,4.3,Fog,Cancelled
+SHP10523,2026-06-08,Central,Road,Truck,345.9,5.16,3,2.2,1631.75,4.3,Clear,On Time
+SHP10524,2026-06-09,West,Road,Container,1164.4,5.92,3,2.4,3624.24,4.0,Fog,On Time
+SHP10525,2026-06-10,East,Road,Truck,153.1,6.81,4,4.0,999.95,4.6,Clear,In Transit
+SHP10526,2026-06-11,South,ship,Truck,332.9,5.85,2,2.9,2091.6,3.6,Clear,Delayed
+SHP10527,2026-06-12,South,Road,Bike,157.7,7.09,4,4.4,4683.37,4.2,Fog,In Transit
+SHP10528,2026-06-13,North,Ship,Truck,396.6,7.97,3,4.8,3038.41,3.0,Fog,On Time
+SHP10529,2026-06-14,Central,Rail,Bike,169.1,7.68,1,1.7,4683.77,4.3,Rain,On Time
+SHP10530,2026-06-15,West,Road,Van,697.1,9.41,2,2.4,3832.04,5.0,Rain,Cancelled
+SHP10531,2026-06-16,Central,Rail,Container,476.9,9.79,6,4.4,3524.47,3.4,Fog,On Time
+SHP10532,2026-06-17,Central,Air,Truck,142.6,9.96,5,5.0,4251.73,3.5,Fog,In Transit
+SHP10533,2026-06-18,East,Road,Truck,595.9,11.68,2,3.9,3211.22,3.5,Fog,On Time
+SHP10534,2026-06-19,West,Road,Container,908.2,4.19,5,5.9,3238.07,4.1,Rain,In Transit
+SHP10535,2026-06-20,Central,Road,Container,507.9,4.31,4,4.8,3406.95,3.3,Storm,On Time
+SHP10536,2026-06-21,Central,Road,Container,109.6,14.06,7,7.6,3429.46,4.3,Storm,Delayed
+SHP10537,2026-06-22,South,Air,Truck,310.7,5.28,3,2.4,1799.12,4.6,Clear,In Transit
+SHP10538,2026-06-23,East,Road,Container,551.3,6.55,4,5.4,2257.07,4.3,Fog,On Time
+SHP10539,2026-06-24,North,Rail,Container,289.8,6.13,1,3.1,2160.26,2.9,Clear,In Transit
+SHP10540,2026-06-25,Central,Air,Van,151.5,,3,3.0,3199.32,4.6,Clear,In Transit
+SHP10541,2026-06-26,East,Road,Container,748.3,3.66,7,6.9,3654.22,4.6,Rain,In Transit
+SHP10542,2026-06-27,North,Rail,Container,280.8,3.61,4,4.3,1297.86,4.5,Clear,Cancelled
+SHP10543,2026-06-28,West,Road,Van,908.6,7.11,3,2.1,5715.94,4.2,Clear,On Time
+SHP10544,2026-06-29,East,Ship,Truck,233.8,6.26,2,2.7,1585.27,4.1,Fog,On Time
+SHP10545,2026-06-30,South,Road,Van,268.9,2.87,4,4.8,1739.59,4.7,Clear,On Time
+SHP10546,2026-07-01,North,Ship,Truck,220.1,6.7,4,6.0,1456.42,5.0,Clear,On Time
+SHP10547,2026-07-02,West,Rail,Truck,306.9,7.25,3,3.2,6274.81,3.4,Storm,On Time
+SHP10548,2026-07-03,East,Road,Truck,471.7,4.89,7,8.1,2593.45,4.7,Clear,Delayed
+SHP10549,2026-07-04,West,Rail,Truck,158.1,6.42,1,0.5,1331.49,3.9,Clear,On Time
+SHP10550,2026-07-05,East,Ship,Truck,134.7,3.94,3,2.8,2383.41,3.9,Clear,On Time
+SHP10551,2026-07-06,Central,Rail,Truck,78.4,300.0,6,4.6,2123.08,3.0,Clear,On Time
+SHP10552,2026-07-07,East,Ship,Container,69.7,5.25,3,2.9,1430.17,3.8,Rain,In Transit
+SHP10553,2026-07-08,East,Ship,Bike,110.7,3.24,2,1.9,2281.27,3.4,Fog,Delayed
+SHP10554,2026-07-09,Central,Road,Truck,232.6,2.45,4,4.6,1367.24,3.7,Clear,On Time
+SHP10555,2026-07-10,South,Road,Bike,391.6,1.45,5,4.9,1836.44,3.3,Fog,In Transit
+SHP10556,2026-07-11,North,Rail,Van,454.4,8.36,2,2.7,1693.45,3.7,Clear,On Time
+SHP10557,2026-07-12,North,Road,Truck,379.3,5.12,6,6.2,1598.79,3.7,Clear,Cancelled
+SHP10558,2026-07-13,West,Ship,Truck,844.0,14.11,5,5.9,5626.06,4.1,Rain,Delayed
+SHP10559,2026-07-14,West,Ship,Van,1015.2,5.44,2,3.5,5413.11,3.0,Rain,On Time
+SHP10560,2026-07-15,West,Road,Container,281.8,8.33,4,4.4,2168.13,3.1,Rain,Delayed
+SHP10561,2026-07-16,North,Road,Container,160.2,4.39,3,4.0,3530.93,4.2,Clear,In Transit
+SHP10562,2026-07-17,North,Air,Truck,1209.2,6.96,3,4.6,4013.67,3.5,Clear,On Time
+SHP10563,2026-07-18,North,Road,Truck,732.1,1.45,5,5.7,2721.48,4.7,Clear,In Transit
+SHP10564,2026-07-19,South,Ship,Truck,698.0,5.19,7,7.8,2967.48,4.1,Clear,On Time
+SHP10565,2026-07-20,East,Road,Truck,,3.68,2,1.6,1756.39,4.4,Rain,On Time
+SHP10566,2026-07-21,South,Rail,Truck,605.6,13.18,3,3.5,2870.3,4.9,Clear,On Time
+SHP10567,2026-07-22,South,Road,Truck,381.4,7.97,3,5.6,3391.06,3.8,Rain,On Time
+SHP10568,2026-07-23,Central,Rail,Container,328.1,11.99,3,2.6,2457.76,3.6,Clear,On Time
+SHP10569,2026-07-24,South,Road,Bike,327.7,15.13,3,3.2,3043.88,4.6,Clear,Cancelled
+SHP10570,2026-07-25,East,Rail,Truck,486.3,4.88,1,1.3,3377.88,4.3,Clear,On Time
+SHP10571,2026-07-26,West,Road,Bike,861.4,7.74,4,5.0,3666.4,3.9,Clear,On Time
+SHP10572,2026-07-27,South,Air,Truck,1271.4,3.0,3,4.5,3612.85,4.9,Fog,On Time
+SHP10573,2026-07-28,West,Ship,Van,256.0,9.21,2,2.6,1461.44,3.9,Clear,In Transit
+SHP10574,2026-07-29,Central,Road,Truck,396.4,10.12,5,3.9,2541.59,4.0,Clear,Cancelled
+SHP10575,2026-07-30,Central,Road,Van,322.3,8.78,5,6.5,2119.38,4.0,Fog,In Transit
+SHP10576,2026-07-31,North,Road,Bike,465.0,4.88,3,4.3,2465.44,3.4,Rain,Cancelled
+SHP10577,2026-08-01,Central,Rail,Van,294.2,21.28,3,2.2,2593.35,4.1,Clear,In Transit
+SHP10578,2026-08-02,East,Rail,Truck,205.8,7.24,4,2.0,5725.06,4.9,Clear,Cancelled
+SHP10579,2026-08-03,South,Rail,Van,256.3,3.02,3,2.4,1252.67,4.3,Rain,Delayed
+SHP10580,2026-08-04,East,Road,Truck,228.1,10.77,2,2.1,1284.44,4.0,Storm,On Time
+SHP10581,2026-08-05,Central,Road,Bike,311.1,13.44,5,8.0,2609.89,3.9,Fog,On Time
+SHP10582,2026-08-06,East,Rail,Van,117.8,3.07,1,1.7,1351.93,4.2,Clear,Delayed
+SHP10583,2026-08-07,South,Road,Truck,231.4,5.93,1,0.5,2158.7,4.5,Storm,On Time
+SHP10584,2026-08-08,West,Ship,Van,462.0,2.24,1,1.0,2765.73,4.4,Clear,On Time
+SHP10585,2026-08-09,South,Road,Van,459.7,15.5,2,2.6,4009.76,3.8,Clear,Delayed
+SHP10586,2026-08-10,North,Air,Truck,412.0,6.65,1,1.8,1668.17,4.2,Fog,Cancelled
+SHP10587,2026-08-11,North,Road,Van,814.5,3.69,7,6.8,2813.35,4.3,Clear,On Time
+SHP10588,2026-08-12,North,Road,Truck,474.3,13.55,3,3.5,3051.99,3.3,Clear,In Transit
+SHP10589,2026-08-13,North,Air,Container,797.7,7.1,2,2.4,3854.95,4.1,Clear,Delayed
+SHP10590,2026-08-14,North,Air,Container,1271.9,12.36,2,2.7,7280.48,2.6,Clear,Cancelled
+SHP10591,2026-08-15,West,Ship,Container,615.5,9.6,6,7.1,3740.19,4.3,Rain,Cancelled
+SHP10592,2026-08-16,North,Road,Van,118.3,3.32,3,3.9,1551.16,4.4,Rain,In Transit
+SHP10593,2026-08-17,South,Road,Van,423.2,4.75,3,4.4,1839.97,4.5,Clear,On Time
+SHP10594,2026-08-18,Central,Air,Truck,381.9,3.77,6,7.1,1860.72,3.7,Clear,On Time
+SHP10595,2026-08-19,East,Rail,Container,907.7,2.86,3,3.8,2971.86,,Storm,On Time
+SHP10596,2026-08-20,West,Road,Truck,319.3,1.8,3,4.2,2503.27,4.9,Fog,In Transit
+SHP10597,2026-08-21,North,Road,Van,184.4,24.02,2,2.6,2642.36,4.9,Clear,In Transit
+SHP10598,2026-08-22,North,Road,Truck,241.7,8.67,3,3.5,1420.41,4.0,Storm,In Transit
+SHP10599,2026-08-23,North,Ship,Truck,122.2,9.56,3,2.6,1557.05,4.1,Rain,On Time
+SHP10600,2026-08-24,North,Road,Van,17.8,14.55,4,3.5,2512.24,4.7,Clear,Delayed
+SHP10601,2026-08-25,South,Road,Truck,1146.0,4.72,3,4.7,4156.98,3.0,Clear,On Time
+SHP10602,2026-08-26,North,Road,Container,350.6,2.37,4,6.9,2511.25,3.8,Clear,On Time
+SHP10603,2026-08-27,North,Road,Truck,132.4,11.65,1,1.5,2195.11,4.9,Rain,On Time
+SHP10604,2026-08-28,West ,Road,Truck,959.3,2.69,2,2.8,5169.33,4.6,Clear,On Time
+SHP10605,2026-08-29,East,Rail,Van,1061.9,11.47,3,3.7,4117.61,4.2,Clear,In Transit
+SHP10606,2026-08-30,North,Road,Truck,391.0,2.09,6,6.1,1913.48,3.0,Clear,On Time
+SHP10607,2026-08-31,South,Ship,Truck,112.8,2.54,3,5.3,1069.47,4.0,Storm,On Time
+SHP10608,2026-09-01,East,Road,Container,246.2,4.37,4,4.0,2084.9,3.6,Clear,Cancelled
+SHP10609,2026-09-02,West,Rail,Truck,295.0,11.18,2,3.3,1356.89,4.2,Storm,On Time
+SHP10610,2026-09-03,North,Ship,Container,359.0,19.51,2,2.1,2567.79,3.5,Storm,On Time
+SHP10611,2026-09-04,West,Rail,Truck,146.8,9.55,1,1.5,1739.45,3.3,Clear,On Time
+SHP10612,2026-09-05,West,Rail,Truck,648.4,4.5,3,4.7,2156.21,,Clear,On Time
+SHP10613,2026-09-06,North,Road,Container,48.6,13.06,2,1.5,1291.4,4.8,Clear,On Time
+SHP10614,2026-09-07,Central,Road,Truck,717.0,2.04,2,2.4,3540.65,3.7,Storm,On Time
+SHP10615,2026-09-08,Central,Rail,Truck,815.3,3.46,5,7.8,3290.7,4.1,Clear,Delayed
+SHP10616,2026-09-09,North,Ship,Truck,264.7,7.59,1,2.4,2129.74,,Clear,On Time
+SHP10617,2026-09-10,South,Rail,Truck,330.5,11.9,4,5.3,2577.98,3.3,Clear,On Time
+SHP10618,2026-09-11,West,Rail,Container,880.3,6.15,3,5.0,3427.22,3.2,Clear,In Transit
+SHP10619,2026-09-12,West,Air,Truck,537.5,5.68,3,4.2,3782.14,3.3,Storm,On Time
+SHP10620,2026-09-13,North,Road,Container,271.8,5.92,4,6.4,2102.26,3.5,Rain,Cancelled
+SHP10621,2026-09-14,North,Road,Bike,296.2,14.46,3,3.5,1701.21,4.2,Fog,On Time
+SHP10622,2026-09-15,South,Rail,Truck,488.1,3.97,3,4.3,4183.53,3.5,Clear,On Time
+SHP10623,2026-09-16,East,Ship,Bike,1082.0,3.28,5,5.1,3980.97,5.0,Clear,In Transit
+SHP10624,2026-09-17,East,Road,Truck,302.9,5.86,6,5.6,1747.96,4.7,Storm,On Time
+SHP10625,2026-09-18,South,Air,Bike,265.7,15.78,2,1.2,1745.12,4.5,Clear,On Time
+SHP10626,2026-09-19,East,Road,Truck,357.2,4.32,1,2.8,2443.85,3.9,Storm,Delayed
+SHP10627,2026-09-20,West,Rail,Van,358.7,5.91,6,4.0,2132.32,5.0,Clear,On Time
+SHP10628,2026-09-21,North,Road,Van,431.9,2.01,3,3.2,3901.21,3.9,Clear,In Transit
+SHP10629,2026-09-22,South,Road,Truck,331.2,6.09,4,1.5,1943.79,4.0,Rain,Cancelled
+SHP10630,2026-09-23,West,Air,Van,744.5,8.39,3,3.2,2696.22,4.1,Storm,On Time
+SHP10631,2026-09-24,Central,Road,Container,173.2,2.7,2,1.8,2459.18,4.5,Storm,Delayed
+SHP10632,2026-09-25,East,Rail,Truck,464.7,14.48,4,6.0,3545.21,4.4,Clear,On Time
+SHP10633,2026-09-26,East,Air,Truck,477.0,8.31,3,4.1,2670.02,3.7,Clear,Cancelled
+SHP10634,2026-09-27,North,Ship,Container,185.9,4.83,2,1.4,2336.14,3.7,Rain,In Transit
+SHP10635,2026-09-28,East,Road,Van,461.5,8.36,3,4.7,2495.0,4.4,Rain,Cancelled
+SHP10636,2026-09-29,East,Road,Bike,485.4,450.0,5,5.7,2794.11,4.5,Rain,On Time
+SHP10637,2026-09-30,South,Road,Container,30.2,1.6,4,4.1,2422.63,3.7,Clear,In Transit
+SHP10638,2026-10-01,South,Ship,Bike,160.1,8.58,1,0.5,2361.97,3.0,Storm,On Time
+SHP10639,2026-10-02,South,Ship,Container,927.0,15.42,4,4.3,3683.33,3.9,Rain,On Time
+SHP10640,2026-10-03,North,Rail,Truck,222.3,3.92,4,3.5,3176.13,4.4,Fog,Cancelled
+SHP10641,2026-10-04,South,Ship,Truck,132.1,4.91,5,5.2,792.55,5.0,Clear,On Time
+SHP10642,2026-10-05,North,Rail,Container,66.9,5.53,4,4.2,4087.47,3.2,Clear,Cancelled
+SHP10643,2026-10-06,South,Rail,Van,148.1,11.99,2,3.8,1219.71,3.7,Storm,On Time
+SHP10644,2026-10-07,North,Road,Truck,321.2,3.07,4,4.8,1672.51,3.7,Rain,In Transit
+SHP10645,2026-10-08,Central,Air,Truck,124.1,9.63,4,1.5,1795.07,4.9,Fog,On Time
+SHP10646,2026-10-09,East,Road,Bike,542.2,5.61,1,2.0,2507.35,4.0,Storm,On Time
+SHP10647,2026-10-10,West,Ship,Van,183.2,20.09,3,1.8,3214.26,3.4,Rain,On Time
+SHP10648,2026-10-11,West,,Truck,434.1,5.85,3,2.7,1837.12,4.4,Clear,Delayed
+SHP10649,2026-10-12,East,Air,Van,844.1,1.04,4,4.4,3292.29,3.7,Clear,On Time
+SHP10650,2026-10-13,North,Road,Truck,810.9,10.86,2,2.5,3045.9,3.2,Clear,Delayed
+SHP10651,2026-10-14,East,Road,Truck,429.0,9.3,4,3.2,2694.87,3.4,Clear,On Time
+SHP10652,2026-10-15,East,Road,Truck,140.1,8.07,6,6.4,1760.22,5.0,Clear,On Time
+SHP10653,2026-10-16,West,Road,Truck,337.3,15.15,5,4.1,2547.84,4.2,Clear,On Time
+SHP10654,2026-10-17,South,Road,Container,438.7,1.79,6,7.0,1923.43,4.1,Clear,On Time
+SHP10655,2026-10-18,North,Ship,Truck,1419.4,3.5,7,11.3,4160.67,3.8,Clear,In Transit
+SHP10656,2026-10-19,South,Rail,Container,66.2,6.93,1,0.5,1807.6,4.2,Clear,In Transit
+SHP10657,2026-10-20,South,Road,Bike,338.1,7.77,4,4.2,3052.38,4.2,Clear,On Time
+SHP10658,2026-10-21,West,,Truck,529.4,6.23,3,1.2,2254.87,,Clear,Delayed
+SHP10659,2026-10-22,East,Road,Van,377.2,2.04,5,5.2,1652.82,4.1,Rain,In Transit
+SHP10660,2026-10-23,South,Rail,Van,406.6,4.95,2,3.2,2766.1,4.6,Clear,On Time
+SHP10661,2026-10-24,Central,Rail,Bike,192.1,19.2,7,8.0,2285.11,4.0,Clear,On Time
+SHP10662,2026-10-25,East,Ship,Truck,641.1,2.96,4,5.0,3427.68,3.4,Rain,On Time
+SHP10663,2026-10-26,North,Road,Van,358.9,6.82,5,6.4,1764.71,3.6,Fog,On Time
+SHP10664,2026-10-27,North,Ship,Van,405.5,9.65,1,4.1,1685.31,2.7,Clear,On Time
+SHP10665,2026-10-28,North,Ship,Truck,685.5,11.76,2,4.7,2823.72,5.0,Rain,On Time
+SHP10666,2026-10-29,South,Road,Truck,278.0,,5,4.9,1785.78,4.6,Storm,Delayed
+SHP10667,2026-10-30,North,Ship,Van,782.9,4.68,1,0.7,3046.75,3.5,Fog,On Time
+SHP10668,2026-10-31,North,Road,Container,120.4,3.49,5,4.8,1240.86,3.8,Clear,On Time
+SHP10669,2026-11-01,South,Ship,Truck,421.6,20.2,1,0.7,3456.28,3.6,Rain,On Time
+SHP10670,2026-11-02,North,Road,Van,182.7,12.53,4,4.7,1874.83,5.0,Clear,On Time
+SHP10671,2026-11-03,Central,Ship,Truck,146.1,7.29,3,2.0,1893.11,3.1,Rain,On Time
+SHP10672,2026-11-04,North,Ship,Container,1074.1,16.86,4,5.5,4274.85,4.1,Storm,Cancelled
+SHP10673,2026-11-05,East,Ship,Truck,126.1,2.39,4,5.0,1710.21,3.9,Clear,On Time
+SHP10674,2026-11-06,South,Air,Bike,363.8,1.06,3,3.4,2033.45,4.5,Storm,Delayed
+SHP10675,2026-11-07,Central,Road,Truck,117.7,7.71,2,1.2,2133.71,3.9,Clear,On Time
+SHP10676,2026-11-08,North,Road,Truck,752.3,7.97,1,3.2,2716.43,2.9,Storm,Delayed
+SHP10677,2026-11-09,South,Road,Truck,257.7,2.21,4,2.5,3261.02,3.8,Rain,Delayed
+SHP10678,2026-11-10,Central,Road,Truck,683.2,12.23,3,3.6,2995.21,3.4,Clear,On Time
+SHP10679,2026-11-11,Central,Air,Van,517.5,1.39,5,5.7,1776.28,4.1,Rain,In Transit
+SHP10680,2026-11-12,West,Road,Truck,1290.6,8.91,3,4.9,4495.22,4.9,Clear,On Time
+SHP10681,2026-11-13,West ,Ship,Container,97.7,10.32,3,3.3,1335.03,2.9,Clear,In Transit
+SHP10682,2026-11-14,North,Rail,Truck,159.0,7.65,3,3.8,2365.04,3.5,Fog,On Time
+SHP10683,2026-11-15,West,Ship,Truck,659.5,1.97,1,1.9,5605.69,,Clear,Cancelled
+SHP10684,2026-11-16,Central,Road,Truck,435.6,15.05,3,3.3,2271.41,3.8,Fog,In Transit
+SHP10685,2026-11-17,East,Ship,Truck,293.1,4.8,7,7.0,2267.88,4.5,Clear,Cancelled
+SHP10686,2026-11-18,East,Ship,Truck,1144.2,4.81,6,7.0,3147.09,3.9,Clear,On Time
+SHP10687,2026-11-19,South,,Truck,346.2,4.13,3,4.3,2461.84,4.3,Storm,On Time
+SHP10688,2026-11-20,West,Rail,Van,188.4,11.08,4,3.6,1546.89,3.6,Clear,In Transit
+SHP10689,2026-11-21,North,Air,Truck,688.5,4.63,5,6.8,2536.24,4.1,Rain,In Transit
+SHP10690,2026-11-22,South,Road,Van,354.4,2.74,3,3.5,1536.94,4.5,Rain,Cancelled
+SHP10691,2026-11-23,South,Rail,Van,374.1,13.18,1,1.0,3097.22,3.5,Rain,On Time
+SHP10692,2026-11-24,East,Road,Truck,546.8,6.71,1,2.4,3546.91,4.5,Storm,In Transit
+SHP10693,2026-11-25,South,Road,Van,561.0,13.49,3,3.1,2934.01,4.0,Rain,On Time
+SHP10694,2026-11-26,North,Road,Bike,157.2,7.06,7,7.9,1346.32,4.7,Clear,On Time
+SHP10695,2026-11-27,East,Road,Van,280.9,3.92,4,4.6,3660.32,3.9,Fog,On Time
+SHP10696,2026-11-28,South,Road,Van,30000.0,1.56,1,0.6,1096.09,4.2,Clear,On Time
+SHP10697,2026-11-29,East,Road,Truck,440.1,7.73,2,3.2,1607.8,4.0,Clear,Cancelled
+SHP10698,2026-11-30,North,Ship,Container,1062.2,5.54,5,7.1,4090.23,3.9,Storm,On Time
+SHP10699,2026-12-01,East,Rail,Container,162.6,11.39,5,6.4,1416.46,4.2,Rain,Delayed
+SHP10700,2026-12-02,East,Ship,Van,91.5,4.48,4,5.1,2445.63,4.3,Fog,Delayed
+SHP10701,2026-12-03,North,Road,Bike,213.2,9.09,4,4.8,1769.96,3.2,Rain,On Time
+SHP10702,2026-12-04,South,Road,Truck,291.2,6.86,1,0.5,2569.99,4.9,Fog,On Time
+SHP10703,2026-12-05,North,Rail,Truck,564.3,3.67,5,8.3,3989.64,2.8,Storm,Delayed
+SHP10704,2026-12-06,North,Road,Container,269.3,4.74,5,4.0,1381.72,3.6,Clear,On Time
+SHP10705,2026-12-07,Central,Road,Container,445.5,2.34,2,3.6,1949.79,3.9,Clear,In Transit
+SHP10706,2026-12-08,South,Rail,Truck,238.0,21.1,4,4.8,2424.66,4.3,Clear,Cancelled
+SHP10707,2026-12-09,West,Road,Truck,303.1,8.96,2,1.3,3803.7,5.0,Rain,On Time
+SHP10708,2026-12-10,South,Rail,Truck,183.4,2.22,1,1.1,1324.96,2.8,Clear,On Time
+SHP10709,2026-12-11,West,Rail,Truck,139.7,20.41,2,2.1,1895.64,3.7,Clear,On Time
+SHP10710,2026-12-12,West,Road,Container,577.6,2.93,2,4.1,2949.79,2.6,Clear,In Transit
+SHP10711,2026-12-13,East,Road,Van,250.7,4.42,3,2.6,1588.53,4.0,Storm,On Time
+SHP10712,2026-12-14,East,Air,Truck,467.7,5.83,3,3.4,2551.01,4.2,Rain,On Time
+SHP10713,2026-12-15,South,Road,Truck,181.1,6.98,3,0.9,1159.0,5.0,Clear,On Time
+SHP10714,2026-12-16,South,Road,Truck,347.8,11.19,3,5.2,5253.28,4.1,Clear,Cancelled
+SHP10715,2026-12-17,Central,Ship,Truck,49.8,1.29,2,1.0,732.24,4.7,Clear,On Time
+SHP10716,2026-12-18,West,Road,Van,265.0,7.06,1,1.7,1845.5,4.4,Clear,On Time
+SHP10717,2026-12-19,Central,Air,Bike,196.9,5.62,4,4.2,1820.39,3.7,Clear,Cancelled
+SHP10718,2026-12-20,North,Ship,Container,733.0,7.83,3,3.9,5356.89,3.1,Storm,Delayed
+SHP10719,2026-12-21,West,ship,Truck,121.9,5.42,3,4.0,1042.72,4.2,Storm,Delayed
+SHP10720,2026-12-22,Central,Road,Bike,312.2,4.9,5,7.1,4466.8,3.0,Clear,Delayed
+SHP10721,2026-12-23,North,Road,Container,436.4,6.33,5,5.9,3019.66,4.8,Clear,Cancelled
+SHP10722,2026-12-24,North,Road,Container,668.1,19.69,5,6.6,3683.44,3.9,Clear,Delayed
+SHP10723,2026-12-25,West,Road,Van,609.4,4.97,3,4.2,2219.81,4.8,Clear,In Transit
+SHP10724,2026-12-26,East,Air,Truck,330.3,14.6,2,3.5,2896.92,3.7,Clear,Delayed
+SHP10725,2026-12-27,Central,Road,Truck,364.2,7.6,4,4.1,1881.34,4.2,Clear,In Transit
+SHP10726,2026-12-28,North,Rail,Truck,732.5,7.36,2,4.1,4301.57,4.1,Clear,On Time
+SHP10727,2026-12-29,West,Ship,Truck,325.8,7.88,3,4.6,1703.02,4.0,Fog,On Time
+SHP10728,2026-12-30,North,Ship,Truck,391.9,9.63,1,2.6,2338.07,3.7,Rain,In Transit
+SHP10729,2026-12-31,North,Rail,Van,748.0,5.26,5,5.4,2722.71,4.3,Rain,On Time
+SHP10730,2027-01-01,North,Road,Container,1402.6,13.96,2,3.8,4278.38,3.4,Clear,Delayed
+SHP10731,2027-01-02,West,Rail,Van,415.4,9.65,6,6.8,3073.7,3.2,Storm,On Time
+SHP10732,2027-01-03,West,Rail,Truck,495.0,2.51,5,4.3,2803.86,4.8,Storm,In Transit
+SHP10733,2027-01-04,East,Road,Bike,597.6,1.04,3,5.4,3707.67,4.5,Clear,On Time
+SHP10734,2027-01-05,South,Road,Bike,743.4,19.31,5,6.0,2766.68,4.0,Clear,In Transit
+SHP10735,2027-01-06,Central,Ship,Container,678.9,8.06,4,5.3,3951.79,5.0,Clear,Delayed
+SHP10736,2027-01-07,South,Road,Bike,224.1,2.27,5,4.7,5380.28,3.8,Clear,On Time
+SHP10737,2027-01-08,West,Road,Van,434.6,4.97,3,2.3,2075.46,4.9,Clear,On Time
+SHP10738,2027-01-09,South,Road,Bike,681.9,12.53,5,5.4,5375.65,4.1,Rain,On Time
+SHP10739,2027-01-10,South,Road,Truck,844.8,6.06,3,4.4,3119.31,3.3,Clear,On Time
+SHP10740,2027-01-11,East,Ship,Truck,312.6,6.46,6,7.1,1483.56,5.0,Clear,On Time
+SHP10741,2027-01-12,South,Air,Truck,427.5,,3,3.8,2350.99,4.6,Clear,On Time
+SHP10742,2027-01-13,West,Air,Truck,461.5,8.59,3,4.0,3473.03,3.9,Storm,Cancelled
+SHP10743,2027-01-14,East,Road,Truck,355.8,10.13,5,5.2,1901.64,4.5,Clear,On Time
+SHP10744,2027-01-15,North,Road,Van,420.0,10.95,5,6.1,2178.4,3.7,Rain,Delayed
+SHP10745,2027-01-16,Central,Road,Container,1941.1,4.01,4,8.3,250000.0,4.5,Clear,On Time
+SHP10746,2027-01-17,South,Road,Van,303.3,4.3,2,3.1,2031.77,2.4,Clear,Delayed
+SHP10747,2027-01-18,East,Road,Truck,320.5,3.65,3,4.3,2504.46,3.3,Rain,On Time
+SHP10748,2027-01-19,Central,Air,Container,82.7,4.48,7,7.4,1720.08,4.6,Clear,Delayed
+SHP10749,2027-01-20,West,Road,Van,70.3,6.28,5,3.6,1952.27,3.8,Clear,Delayed
+SHP10750,2027-01-21,North,Rail,Truck,483.6,6.61,5,4.6,2250.77,4.1,Clear,Delayed
+SHP10751,2027-01-22,Central,Road,Van,683.7,16.53,1,2.4,3459.4,3.1,Rain,On Time
+SHP10752,2027-01-23,West,Road,Truck,604.3,8.31,3,3.9,2348.05,5.0,Rain,Delayed
+SHP10753,2027-01-24,South,Road,Truck,180.7,6.37,4,4.7,3082.27,4.8,Clear,On Time
+SHP10754,2027-01-25,North,Ship,Bike,581.2,3.07,5,7.5,2241.13,3.9,Rain,On Time
+SHP10755,2027-01-26,West,Ship,Truck,316.9,5.5,1,2.2,3144.59,3.7,Clear,On Time
+SHP10756,2027-01-27,West,Ship,Van,30000.0,20.25,5,6.6,2352.97,4.7,Rain,On Time
+SHP10757,2027-01-28,East,Road,Bike,111.6,20.04,4,4.3,2301.3,5.0,Clear,On Time
+SHP10758,2027-01-29,Central,Road,Container,199.1,5.45,2,1.5,1551.9,4.6,Rain,Delayed
+SHP10759,2027-01-30,West,Rail,Truck,491.2,1.72,3,3.6,1833.96,5.0,Storm,On Time
+SHP10760,2027-01-31,North,Road,Truck,431.5,4.94,3,2.8,1586.43,3.4,Storm,On Time
+SHP10761,2027-02-01,South,Ship,Truck,389.0,16.65,4,6.1,2116.84,3.5,Clear,On Time
+SHP10762,2027-02-02,South,Road,Van,44.6,6.31,1,1.9,1333.16,3.2,Fog,Delayed
+SHP10763,2027-02-03,West,Road,Truck,391.8,11.04,2,3.1,2610.12,4.3,Clear,Delayed
+SHP10764,2027-02-04,North,Road,Truck,221.5,6.84,5,6.6,2839.37,4.1,Storm,On Time
+SHP10765,2027-02-05,East,Road,Bike,433.6,2.13,2,0.6,1976.92,3.9,Clear,Delayed
+SHP10766,2027-02-06,West,Air,Van,757.9,7.02,2,3.7,2659.23,4.5,Clear,On Time
+SHP10767,2027-02-07,Central,Road,Truck,,12.02,3,2.0,1513.11,4.8,Clear,On Time
+SHP10768,2027-02-08,South,Road,Van,372.1,4.43,3,3.5,2551.86,3.0,Clear,On Time
+SHP10769,2027-02-09,West,Road,Van,1140.0,11.82,5,6.3,5515.18,3.6,Rain,Delayed
+SHP10770,2027-02-10,North,Road,Truck,418.9,7.33,3,4.3,3610.16,4.5,Storm,Delayed
+SHP10771,2027-02-11,Central,Air,Truck,340.6,11.4,5,5.7,2939.2,3.7,Rain,On Time
+SHP10772,2027-02-12,North,Ship,Container,183.1,8.68,4,5.6,2428.55,3.5,Rain,On Time
+SHP10773,2027-02-13,South,Ship,Van,591.9,3.23,2,2.2,4498.34,4.7,Rain,On Time
+SHP10774,2027-02-14,West,Air,Van,158.7,5.54,2,2.9,1997.87,3.2,Clear,Delayed
+SHP10775,2027-02-15,North,Road,Truck,779.3,5.41,3,4.3,3632.94,3.8,Clear,In Transit
+SHP10776,2027-02-16,North,Air,Truck,537.4,4.28,3,2.1,2348.02,4.2,Clear,On Time
+SHP10777,2027-02-17,West,Road,Truck,227.5,8.22,5,4.4,1361.19,3.6,Clear,On Time
+SHP10778,2027-02-18,West,Road,Truck,188.0,22.58,4,4.1,2035.94,4.5,Clear,In Transit
+SHP10779,2027-02-19,West,Ship,Truck,191.7,13.97,3,4.4,2116.57,3.6,Clear,In Transit
+SHP10780,2027-02-20,West,Road,Truck,71.5,15.2,2,2.6,1942.47,4.9,Clear,In Transit
+SHP10781,2027-02-21,East,Ship,Container,30000.0,4.08,2,1.5,4685.85,3.9,Clear,Delayed
+SHP10782,2027-02-22,South,Road,Bike,50.4,15.36,4,3.9,1915.85,4.4,Storm,In Transit
+SHP10783,2027-02-23,South,Rail,Container,325.3,18.7,3,5.5,3687.94,4.5,Clear,On Time
+SHP10784,2027-02-24,North,Rail,Bike,310.4,3.98,3,3.6,1776.22,3.6,Clear,On Time
+SHP10785,2027-02-25,Central,Ship,Truck,271.9,9.34,2,2.1,1946.12,2.7,Rain,On Time
+SHP10786,2027-02-26,East,Rail,Bike,473.6,9.51,4,5.2,1958.27,4.2,Clear,Delayed
+SHP10787,2027-02-27,South,Rail,Truck,228.0,5.84,5,6.1,1511.71,4.0,Clear,On Time
+SHP10788,2027-02-28,East,Road,Bike,392.5,7.77,2,2.1,2754.9,4.4,Clear,On Time
+SHP10789,2027-03-01,Central,Rail,Bike,779.2,9.83,3,4.6,3275.31,3.9,Clear,On Time
+SHP10790,2027-03-02,North,Road,Container,511.8,6.12,7,7.4,3375.9,3.7,Clear,On Time
+SHP10791,2027-03-03,East,Air,Bike,254.4,13.54,3,4.1,2372.6,5.0,Clear,In Transit
+SHP10792,2027-03-04,East,Rail,Van,347.9,2.52,4,4.7,1851.98,3.0,Rain,On Time
+SHP10793,2027-03-05, SOUTH,Air,Truck,272.1,5.4,1,1.9,4737.99,4.5,Rain,On Time
+SHP10794,2027-03-06,North,Road,Truck,307.2,11.19,4,3.7,2218.45,3.6,Clear,In Transit
+SHP10795,2027-03-07,Central,Road,Van,400.9,21.08,1,0.8,3917.45,3.8,Clear,On Time
+SHP10796,2027-03-08,Central,Air,Truck,107.1,14.1,7,8.1,1701.1,3.8,Clear,Delayed
+SHP10797,2027-03-09,East,Road,Van,86.1,7.66,4,4.0,2248.07,3.5,Fog,In Transit
+SHP10798,2027-03-10,West,Road,Bike,170.8,6.33,5,5.5,2616.41,4.4,Clear,Cancelled
+SHP10799,2027-03-11,Central,Road,Truck,488.8,5.62,4,4.4,2631.29,4.9,Rain,In Transit
+SHP10800,2027-03-12,West,Ship,Container,534.2,5.65,4,5.7,1704.96,4.3,Rain,On Time
+SHP10801,2027-03-13,North,,Bike,587.4,1.55,3,3.2,2570.73,4.1,Clear,Delayed
+SHP10802,2027-03-14,East,Road,Bike,176.3,20.53,5,5.1,3490.93,3.4,Clear,On Time
+SHP10803,2027-03-15,East,Road,Bike,370.6,6.68,7,8.3,2669.01,4.3,Clear,On Time
+SHP10804,2027-03-16,South,Road,Van,260.4,3.79,3,4.5,2254.29,5.0,Clear,On Time
+SHP10805,2027-03-17,West,Air,Bike,316.5,9.25,6,5.9,1490.06,3.8,Clear,On Time
+SHP10806,2027-03-18,Central,Rail,Container,256.9,4.03,4,6.3,1521.69,3.8,Clear,In Transit
+SHP10807,2027-03-19,Central,Road,Truck,416.7,12.7,4,4.9,2880.91,3.6,Clear,On Time
+SHP10808,2027-03-20,East,Road,Van,206.7,3.89,3,2.3,2109.74,3.7,Clear,Delayed
+SHP10809,2027-03-21,North,Road,Container,724.4,11.52,2,3.4,4360.78,2.2,Fog,On Time
+SHP10810,2027-03-22,Central,Rail,Truck,728.5,5.56,1,1.7,2916.45,4.3,Clear,On Time
+SHP10811,2027-03-23,West,Air,Van,478.7,8.44,2,3.1,2863.59,3.5,Storm,Cancelled
+SHP10812,2027-03-24,North,Road,Van,670.6,12.11,3,3.9,3122.1,3.0,Storm,On Time
+SHP10813,2027-03-25,Central,Road,Truck,103.5,4.67,3,3.2,1095.43,4.5,Storm,Delayed
+SHP10814,2027-03-26,Central,Road,Van,751.5,11.92,3,3.2,2420.98,3.3,Fog,On Time
+SHP10815,2027-03-27,East,Ship,Container,448.3,1.61,7,8.6,2578.79,3.8,Clear,On Time
+SHP10816,2027-03-28,East,Road,Van,216.4,17.79,3,2.2,2432.37,5.0,Clear,On Time
+SHP10817,2027-03-29,South,Air,Truck,199.9,13.28,3,2.2,1767.23,3.1,Rain,In Transit
+SHP10818,2027-03-30,North,Rail,Truck,917.3,6.51,2,3.7,2743.34,3.0,Rain,On Time
+SHP10819,2027-03-31,South,Road,Truck,593.6,14.85,1,3.5,3539.28,4.2,Fog,On Time
+SHP10820,2027-04-01,West,Road,Bike,310.5,13.86,5,5.1,2215.26,4.7,Storm,On Time
+SHP10821,2027-04-02,North,Road,Truck,102.4,6.94,4,4.8,2114.47,3.0,Clear,In Transit
+SHP10822,2027-04-03,South,Rail,Van,776.1,6.89,5,7.2,5327.2,4.3,Clear,Delayed
+SHP10823,2027-04-04,South,Air,Truck,140.6,3.45,2,3.0,803.31,4.4,Clear,Delayed
+SHP10824,2027-04-05,East,Rail,Truck,263.9,7.2,4,4.1,1657.44,2.7,Clear,On Time
+SHP10825,2027-04-06,Central,Rail,Container,310.1,2.08,2,1.4,1835.16,4.5,Clear,In Transit
+SHP10826,2027-04-07,South,Road,Container,197.5,11.43,2,0.5,3532.25,4.6,Rain,In Transit
+SHP10827,2027-04-08,South,Ship,Truck,300.2,11.59,1,1.2,1558.83,3.8,Fog,In Transit
+SHP10828,2027-04-09,West,Air,Truck,344.3,1.63,2,3.7,4329.26,4.8,Clear,In Transit
+SHP10829,2027-04-10,East,Road,Truck,295.7,16.7,3,2.3,2541.04,4.7,Storm,Delayed
+SHP10830,2027-04-11,North,Ship,Van,430.9,4.37,2,3.3,2250.56,4.1,Rain,On Time
+SHP10831,2027-04-12,East,Rail,Van,938.8,34.97,7,7.4,4376.19,3.7,Fog,In Transit
+SHP10832,2027-04-13,North,Rail,Truck,107.0,8.14,3,3.3,1473.72,3.4,Clear,Cancelled
+SHP10833,2027-04-14,North,Air,Truck,386.3,16.8,2,3.3,3594.84,4.0,Fog,On Time
+SHP10834,2027-04-15,East,Ship,Truck,141.9,3.36,2,1.5,1103.16,4.4,Rain,On Time
+SHP10835,2027-04-16,South,Rail,Bike,97.9,5.55,4,4.3,1875.17,3.8,Clear,Cancelled
+SHP10836,2027-04-17,Central,Road,Bike,638.0,4.66,1,1.5,2547.83,2.6,Clear,On Time
+SHP10837,2027-04-18,South,Road,Truck,409.4,2.04,5,6.3,1769.06,4.8,Storm,In Transit
+SHP10838,2027-04-19,East,Ship,Container,92.4,2.53,7,7.4,5317.36,4.1,Clear,On Time
+SHP10839,2027-04-20,West,Road,Truck,300.0,6.33,2,2.5,2407.66,3.8,Clear,On Time
+SHP10840,2027-04-21,North,Road,Truck,171.2,9.03,3,4.8,2390.84,4.6,Clear,On Time
+SHP10841,2027-04-22,West,Road,Container,307.7,3.09,1,2.1,3051.1,5.0,Rain,On Time
+SHP10842,2027-04-23,,Road,Bike,546.8,5.31,4,4.1,1943.42,2.2,Fog,On Time
+SHP10843,2027-04-24,Central,Rail,Bike,510.6,4.01,3,3.6,4440.89,4.3,Clear,On Time
+SHP10844,2027-04-25,North,Ship,Van,258.3,6.64,2,2.3,1105.59,3.1,Clear,Delayed
+SHP10845,2027-04-26,,Road,Truck,657.4,10.86,2,3.0,2620.46,4.3,Storm,Cancelled
+SHP10846,2027-04-27,North,Road,Container,818.4,7.47,4,7.7,3003.48,4.1,Fog,On Time
+SHP10847,2027-04-28,Central,Road,Truck,552.8,4.51,3,4.2,3042.96,4.4,Fog,On Time
+SHP10848,2027-04-29,East,Ship,Van,227.0,13.57,2,0.5,2341.24,3.7,Clear,On Time
+SHP10849,2027-04-30,East,Rail,Truck,315.0,,4,3.9,2107.77,2.8,Clear,On Time
+SHP10850,2027-05-01,North,Road,Van,920.1,7.63,4,3.4,3495.27,3.7,Clear,On Time
+SHP10851,2027-05-02,West ,Ship,Truck,272.9,3.12,5,5.1,1417.33,4.3,Rain,On Time
+SHP10852,2027-05-03,North,Ship,Truck,511.7,12.64,2,0.7,2100.08,4.7,Clear,On Time
+SHP10853,2027-05-04,Central,Ship,Bike,195.4,9.44,5,4.4,2567.57,3.2,Clear,On Time
+SHP10854,2027-05-05,North,Ship,Truck,660.4,9.77,4,3.4,3569.8,4.7,Clear,On Time
+SHP10855,2027-05-06,North,Road,Van,178.1,5.9,2,2.6,3495.44,3.6,Clear,Delayed
+SHP10856,2027-05-07,North,Air,Truck,325.0,5.17,4,4.5,1680.8,4.2,Fog,On Time
+SHP10857,2027-05-08,East,Road,Truck,499.7,20.6,3,4.0,3594.44,3.7,Clear,In Transit
+SHP10858,2027-05-09, SOUTH,Ship,Truck,1040.1,5.11,6,7.4,3503.94,4.1,Rain,Cancelled
+SHP10859,2027-05-10,North,Air,Truck,404.2,2.66,2,1.2,3314.99,4.6,Storm,Cancelled
+SHP10860,2027-05-11,West,Air,Bike,285.5,7.89,4,4.9,3030.42,3.2,Clear,Cancelled
+SHP10861,2027-05-12,East,Rail,Truck,269.9,6.9,3,5.3,2196.54,3.6,Rain,On Time
+SHP10862,2027-05-13,East,Road,Bike,641.8,13.97,7,8.3,2906.43,4.1,Storm,On Time
+SHP10863,2027-05-14,East,Rail,Van,473.1,6.23,3,3.2,3314.86,5.0,Storm,On Time
+SHP10864,2027-05-15,South,Ship,Truck,539.7,10.63,7,6.3,3289.25,3.4,Clear,In Transit
+SHP10865,2027-05-16,East,Ship,Van,879.3,17.44,6,6.3,3376.63,5.0,Clear,In Transit
+SHP10866,2027-05-17,North,Road,Van,361.0,9.07,2,3.0,1695.54,5.0,Clear,In Transit
+SHP10867,2027-05-18,North,Road,Container,450.8,3.24,5,6.7,2139.28,3.9,Rain,On Time
+SHP10868,2027-05-19,Central,Road,Truck,267.2,9.25,7,7.6,3700.7,3.8,Rain,In Transit
+SHP10869,2027-05-20,Central,Air,Truck,189.6,5.37,2,3.1,2881.96,3.6,Rain,On Time
+SHP10870,2027-05-21,South,Ship,Bike,219.5,,3,4.0,1429.7,4.0,Clear,On Time
+SHP10871,2027-05-22,South,Road,Bike,34.3,6.94,3,3.6,955.97,3.1,Clear,In Transit
+SHP10872,2027-05-23,West,Rail,Bike,496.3,2.61,3,3.1,3626.44,4.0,Rain,On Time
+SHP10873,2027-05-24,South,Ship,Truck,462.7,6.21,1,1.8,1884.27,5.0,Clear,Cancelled
+SHP10874,2027-05-25,North,Air,Container,489.3,3.1,2,1.9,2788.73,3.6,Rain,On Time
+SHP10875,2027-05-26,North,Rail,Van,179.8,4.83,3,3.3,1428.25,3.8,Clear,In Transit
+SHP10876,2027-05-27,West,Rail,Van,222.5,12.61,3,3.6,3880.3,2.9,Clear,On Time
+SHP10877,2027-05-28,West,Rail,Truck,217.0,7.32,2,4.0,1526.95,4.2,Clear,In Transit
+SHP10878,2027-05-29,North,Road,Van,702.3,10.21,6,5.7,4175.39,4.2,Clear,In Transit
+SHP10879,2027-05-30,North,Rail,Truck,394.0,7.74,4,5.0,2479.37,4.0,Clear,Cancelled
+SHP10880,2027-05-31,North,Air,Truck,358.3,5.65,1,3.0,2378.3,3.9,Clear,On Time
+SHP10881,2027-06-01,West,Ship,Bike,572.8,8.28,4,5.6,1960.03,3.8,Clear,Cancelled
+SHP10882,2027-06-02,North,Rail,Truck,217.5,1.81,4,5.1,902.68,4.3,Clear,On Time
+SHP10883,2027-06-03,North,Air,Truck,443.4,11.46,7,8.2,2450.09,4.0,Clear,On Time
+SHP10884,2027-06-04,West,Road,Truck,1125.2,3.71,1,3.9,3993.54,4.2,Rain,On Time
+SHP10885,2027-06-05,North,Road,Bike,773.8,9.78,2,2.0,2697.38,4.1,Clear,In Transit
+SHP10886,2027-06-06,West,Road,Van,438.9,5.49,6,5.2,1823.68,4.7,Rain,On Time
+SHP10887,2027-06-07,North,Road,Truck,367.8,2.61,6,6.5,2550.97,4.4,Rain,In Transit
+SHP10888,2027-06-08,North,Air,Container,486.5,4.22,4,2.5,2869.72,4.1,Rain,Delayed
+SHP10889,2027-06-09,South,Ship,Container,842.4,9.82,5,7.4,3320.52,5.0,Storm,On Time
+SHP10890,2027-06-10,West,Road,Truck,804.8,24.93,1,3.4,4504.56,4.3,Clear,Cancelled
+SHP10891,2027-06-11,Central,Road,Van,932.5,6.63,3,3.9,2918.91,4.8,Rain,On Time
+SHP10892,2027-06-12,West,Ship,Container,409.3,23.07,2,2.2,2704.4,4.4,Storm,In Transit
+SHP10893,2027-06-13,South,Road,Van,50.0,1.8,2,2.0,3172.9,2.8,Fog,On Time
+SHP10894,2027-06-14,West,Rail,Truck,1075.7,5.8,5,6.6,3827.92,4.8,Clear,On Time
+SHP10895,2027-06-15,North,Air,Bike,189.2,6.63,2,2.4,1947.45,4.1,Clear,On Time
+SHP10896,2027-06-16,South,Rail,Van,566.6,10.16,3,4.4,5910.3,4.0,Clear,On Time
+SHP10897,2027-06-17,Central,Road,Truck,51.0,4.34,6,5.9,825.46,4.2,Rain,On Time
+SHP10898,2027-06-18,North,Road,Truck,353.0,8.81,2,3.4,2963.09,3.8,Rain,On Time
+SHP10899,2027-06-19,North,Air,Truck,273.2,6.01,7,7.8,3837.98,4.1,Clear,On Time
+SHP10900,2027-06-20,North,Rail,Truck,933.8,15.28,7,7.7,3602.83,3.6,Clear,On Time
+SHP10901,2027-06-21,North,Road,Container,442.7,7.9,4,6.0,3195.01,4.8,Rain,On Time
+SHP10902,2027-06-22,North,Air,Truck,350.5,33.13,2,1.1,2636.84,3.9,Clear,In Transit
+SHP10903,2027-06-23,East,Road,Truck,476.2,6.05,3,3.6,2090.11,3.8,Fog,Delayed
+SHP10904,2027-06-24,South,Air,Van,23.2,14.64,3,4.0,2061.21,3.4,Fog,In Transit
+SHP10905,2027-06-25,Central,Road,Truck,213.7,17.73,3,2.6,2971.04,4.2,Clear,Delayed
+SHP10906,2027-06-26,West,Ship,Bike,239.7,0.84,3,3.7,2801.86,4.1,Rain,Delayed
+SHP10907,2027-06-27,South,Road,Truck,527.1,11.36,7,8.3,4430.75,4.3,Clear,Delayed
+SHP10908,2027-06-28,South,Road,Truck,157.3,5.89,2,1.4,1720.04,3.3,Rain,On Time
+SHP10909,2027-06-29,South,Road,Truck,397.3,2.91,5,5.5,3312.59,3.0,Storm,Delayed
+SHP10910,2027-06-30,East,Road,Truck,326.9,15.45,1,1.3,2263.91,4.4,Fog,On Time
+SHP10911,2027-07-01,South,Ship,Truck,222.8,4.53,4,3.8,2639.23,5.0,Clear,In Transit
+SHP10912,2027-07-02,West,Ship,Container,234.1,1.72,6,8.6,1933.7,3.3,Clear,In Transit
+SHP10913,2027-07-03,South,Road,Bike,324.8,8.03,3,2.7,2544.24,5.0,Clear,On Time
+SHP10914,2027-07-04,East,Road,Truck,65.4,16.96,2,3.1,2267.34,4.2,Clear,In Transit
+SHP10915,2027-07-05,South,Air,Van,,2.94,4,4.4,1875.68,4.0,Clear,On Time
+SHP10916,2027-07-06,,Ship,Container,188.2,12.37,4,3.2,1500.09,3.7,Clear,On Time
+SHP10917,2027-07-07,Central,Rail,Container,286.1,1.38,4,4.5,1960.0,3.1,Clear,On Time
+SHP10918,2027-07-08,West,Road,Truck,912.4,17.75,3,5.0,3107.67,4.6,Clear,In Transit
+SHP10919,2027-07-09,North,Road,Truck,584.4,9.19,2,3.8,3521.74,3.5,Clear,In Transit
+SHP10920,2027-07-10,Central,Air,Truck,135.0,2.7,7,8.8,2348.87,3.5,Storm,In Transit
+SHP10921,2027-07-11,East,Road,Container,19.8,11.63,6,9.0,1901.52,4.6,Rain,On Time
+SHP10922,2027-07-12,Central,Rail,Container,489.8,4.73,3,4.0,1897.29,2.8,Clear,On Time
+SHP10923,2027-07-13,West,Road,Truck,294.4,3.45,5,4.8,3357.56,3.0,Clear,Delayed
+SHP10924,2027-07-14,South,Air,Truck,398.9,4.65,3,4.0,4756.56,4.0,Clear,On Time
+SHP10925,2027-07-15,North,Road,Bike,571.7,10.86,3,3.6,2951.92,4.2,Clear,Delayed
+SHP10926,2027-07-16,South,Rail,Container,631.4,3.28,2,3.8,3108.74,4.3,Clear,On Time
+SHP10927,2027-07-17,East,Road,Bike,253.9,1.01,3,2.1,1948.12,3.8,Fog,On Time
+SHP10928,2027-07-18,West,Rail,Container,321.0,4.83,4,6.8,2497.72,5.0,Rain,On Time
+SHP10929,2027-07-19,South,Road,Truck,452.3,15.87,1,2.5,2685.35,3.9,Rain,Delayed
+SHP10930,2027-07-20,North,Rail,Van,472.4,15.73,3,2.0,2778.97,3.8,Clear,On Time
+SHP10931,2027-07-21,West,Rail,Van,396.2,4.65,5,4.9,3028.88,3.5,Storm,On Time
+SHP10932,2027-07-22,Central,Rail,Truck,849.1,4.52,4,6.0,6429.45,4.1,Storm,On Time
+SHP10933,2027-07-23,East,Rail,Van,468.8,4.32,4,5.8,1743.69,4.4,Clear,On Time
+SHP10934,2027-07-24,North,Rail,Container,566.2,4.17,6,5.5,2536.3,4.8,Clear,On Time
+SHP10935,2027-07-25,South,Ship,Truck,419.5,4.39,1,2.3,1709.72,3.0,Clear,On Time
+SHP10936,2027-07-26,North,Road,Container,156.4,8.3,4,2.3,3543.72,3.8,Clear,Delayed
+SHP10937,2027-07-27,Central,Ship,Van,213.2,16.12,5,5.2,1910.45,4.3,Rain,On Time
+SHP10938,2027-07-28,North,Road,Bike,130.2,3.28,4,5.3,949.22,4.4,Clear,In Transit
+SHP10939,2027-07-29,East,Road,Truck,677.6,3.77,3,3.4,3344.26,4.0,Clear,Delayed
+SHP10940,2027-07-30,South,Air ,Truck,92.0,8.97,2,0.6,3679.65,4.4,Clear,On Time
+SHP10941,2027-07-31,East,Road,Van,311.6,11.28,6,6.6,2826.14,3.5,Clear,On Time
+SHP10942,2027-08-01,West,Air,Truck,264.4,2.07,3,2.8,2010.6,5.0,Fog,In Transit
+SHP10943,2027-08-02,West,Air,Container,259.3,20.07,6,7.0,2790.73,4.6,Rain,On Time
+SHP10944,2027-08-03,North,Air,Container,276.3,5.51,4,3.5,3439.73,3.1,Rain,On Time
+SHP10945,2027-08-04,North,Rail,Truck,951.0,2.24,4,4.6,2919.94,3.3,Clear,On Time
+SHP10946,2027-08-05,North,Road,Van,61.1,1.99,5,3.1,1343.73,3.3,Rain,Delayed
+SHP10947,2027-08-06,Central,Road,Van,782.6,1.9,4,5.3,2733.06,4.4,Clear,Delayed
+SHP10948,2027-08-07,Central,Road,Truck,293.8,14.46,3,3.3,1790.04,3.2,Rain,Cancelled
+SHP10949,2027-08-08,East,Road,Bike,604.8,7.36,3,2.7,2599.87,3.8,Clear,In Transit
+SHP10950,2027-08-09,East,Road,Container,366.0,14.54,5,5.7,3542.96,4.3,Clear,On Time
+SHP10951,2027-08-10,West,Road,Van,141.8,6.41,3,4.2,2191.43,4.0,Clear,On Time
+SHP10952,2027-08-11,North,Rail,Container,830.4,14.28,3,4.0,4054.08,4.2,Clear,On Time
+SHP10953,2027-08-12,Central,Air,Van,750.3,6.3,1,2.3,3184.81,3.3,Storm,On Time
+SHP10954,2027-08-13,South,Ship,Bike,150.7,10.13,6,6.5,2302.28,4.4,Clear,On Time
+SHP10955,2027-08-14,South,Ship,Van,514.8,6.73,1,0.5,2148.41,3.6,Clear,On Time
+SHP10956,2027-08-15,East,Rail,Container,220.8,6.03,4,6.4,1719.07,,Clear,On Time
+SHP10957,2027-08-16,North,Road,Bike,,3.54,3,2.7,1681.18,4.2,Fog,On Time
+SHP10958,2027-08-17,North,Rail,Truck,188.6,11.09,3,3.9,2214.89,4.1,Clear,On Time
+SHP10959,2027-08-18,West,Air,Container,799.8,2.95,4,5.9,3308.15,4.0,Rain,Cancelled
+SHP10960,2027-08-19,North,Road,Truck,614.5,11.08,1,1.7,2862.88,3.5,Fog,Delayed
+SHP10961,2027-08-20,East,Road,Truck,278.7,7.6,4,5.0,1863.92,3.8,Clear,Cancelled
+SHP10962,2027-08-21,South,Ship,Truck,802.2,,5,6.4,9042.39,4.0,Clear,On Time
+SHP10963,2027-08-22,South,Road,Bike,714.0,8.06,5,4.6,3848.57,3.1,Clear,On Time
+SHP10964,2027-08-23,South,Rail,Bike,188.8,15.31,2,1.9,2472.37,3.7,Fog,On Time
+SHP10965,2027-08-24,South,Rail,Container,927.2,9.47,6,6.7,3437.36,4.3,Clear,On Time
+SHP10966,2027-08-25,West,Road,Container,262.4,7.71,4,3.9,1792.74,3.2,Clear,On Time
+SHP10967,2027-08-26,South,Road,Van,289.8,0.93,6,5.1,1797.95,4.8,Rain,Cancelled
+SHP10968,2027-08-27,East,Road,Bike,62.6,15.72,3,4.2,2111.68,4.8,Rain,Cancelled
+SHP10969,2027-08-28,East,Road,Van,217.6,1.88,4,5.9,975.37,3.2,Clear,On Time
+SHP10970,2027-08-29,,Road,Truck,313.4,2.41,6,7.4,1285.07,4.9,Clear,On Time
+SHP10971,2027-08-30,Central,Ship,Truck,427.5,12.0,6,7.9,2214.32,3.9,Clear,On Time
+SHP10972,2027-08-31,West,Road,Container,142.2,7.17,3,2.9,1922.01,4.3,Clear,On Time
+SHP10973,2027-09-01,North,Rail,Container,195.7,1.95,2,1.6,1561.31,3.7,Clear,On Time
+SHP10974,2027-09-02,North,Road,Truck,940.1,4.52,3,3.6,4958.9,4.6,Storm,On Time
+SHP10975,2027-09-03,South,Ship,Truck,684.0,15.18,3,4.6,2572.39,4.3,Clear,On Time
+SHP10976,2027-09-04,East,Road,Container,765.9,7.9,3,4.3,2763.2,3.5,Fog,On Time
+SHP10977,2027-09-05,North,Road,Truck,332.4,7.3,2,2.4,3783.07,3.2,Rain,On Time
+SHP10978,2027-09-06,East,Ship,Container,436.2,4.11,5,6.9,2406.09,3.1,Clear,On Time
+SHP10979,2027-09-07,East,Ship,Bike,522.3,12.28,1,2.2,3550.58,4.1,Rain,On Time
+SHP10980,2027-09-08,South,Road,Truck,931.4,6.55,4,4.5,6023.36,4.4,Clear,Cancelled
+SHP10981,2027-09-09,West,Ship,Truck,93.8,10.79,2,1.5,800000.0,4.4,Storm,On Time
+SHP10982,2027-09-10,North,Road,Container,234.6,3.79,3,4.0,1796.31,3.9,Fog,In Transit
+SHP10983,2027-09-11,North,Road,Container,409.5,25.02,1,2.6,2819.92,3.2,Clear,In Transit
+SHP10984,2027-09-12,West,Road,Van,367.6,17.02,2,3.1,1818.05,3.6,Clear,Cancelled
+SHP10985,2027-09-13,East,Road,Bike,193.8,7.84,5,7.2,1722.52,4.7,Clear,In Transit
+SHP10986,2027-09-14,West,Air,Truck,492.8,9.07,6,8.3,3369.24,3.7,Clear,Delayed
+SHP10987,2027-09-15,South,Road,Van,241.7,4.55,2,2.8,2322.6,4.1,Clear,In Transit
+SHP10988,2027-09-16,South,Road,Container,349.2,11.37,3,2.7,2869.78,3.3,Clear,On Time
+SHP10989,2027-09-17,West,Air,Bike,478.4,1.08,3,2.4,2076.1,4.2,Rain,On Time
+SHP10990,2027-09-18,West,Air,Truck,,19.87,6,6.0,2091.17,3.7,Clear,Cancelled
+SHP10991,2027-09-19,West,Road,Container,581.5,10.93,5,6.6,4097.8,4.7,Fog,In Transit
+SHP10992,2027-09-20,South,Rail,Van,651.6,3.23,3,5.8,2468.51,4.5,Fog,Cancelled
+SHP10993,2027-09-21,East,Road,Truck,199.6,19.55,4,4.7,2548.11,3.7,Clear,In Transit
+SHP10994,2027-09-22,South,Air,Truck,240.4,23.64,5,6.5,2682.16,3.9,Fog,In Transit
+SHP10995,2027-09-23,North,Rail,Bike,160.0,9.41,1,1.0,3389.29,3.6,Clear,Delayed
+SHP10996,2027-09-24,Central,Ship,Truck,343.7,800.0,3,4.1,2958.42,3.1,Clear,In Transit
+SHP10997,2027-09-25,North,Road,Truck,427.3,7.38,6,7.4,1792.79,3.4,Rain,On Time
+SHP10998,2027-09-26,Central,Road,Truck,268.5,10.35,5,3.4,1583.66,4.1,Clear,Cancelled
+SHP10999,2027-09-27,East,Road,Bike,419.2,8.88,4,4.2,2899.41,4.2,Rain,In Transit
+SHP10778,2027-02-18,West,Road,Truck,188.0,22.58,4,4.1,2035.94,4.5,Clear,In Transit
+SHP10334,2025-12-01,North,Ship,Truck,232.0,33.92,5,5.9,3237.62,4.1,Clear,On Time
+SHP10271,2025-09-29,West,Ship,Truck,217.6,3.07,3,4.2,4197.96,4.3,Clear,Delayed
+SHP10802,2027-03-14,East,Road,Bike,176.3,20.53,5,5.1,3490.93,3.4,Clear,On Time
+SHP10216,2025-08-05,South,Road,Container,408.9,7.24,2,1.9,1880.1,3.8,Clear,Cancelled
+SHP10408,2026-02-13,Central,Rail,Bike,603.4,8.32,4,5.8,3018.89,4.4,Clear,On Time
+SHP10812,2027-03-24,North,Road,Van,670.6,12.11,3,3.9,3122.1,3.0,Storm,On Time
+SHP10094,2025-04-05,West,Road,Truck,460.3,11.59,1,1.4,1671.08,3.0,Rain,On Time
+SHP10487,2026-05-03,South,Air,Bike,466.6,6.48,2,1.4,1931.31,5.0,Clear,In Transit
+SHP10170,2025-06-20,,Rail,Van,162.6,,3,4.5,1566.51,4.4,Rain,Delayed
